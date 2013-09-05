@@ -1,0 +1,294 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		C94104D615AB43D000662C25 /* MyMainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C94104D415AB43D000662C25 /* MyMainViewController.m */; };
+		C94104D715AB43D000662C25 /* MyMainViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = C94104D515AB43D000662C25 /* MyMainViewController.xib */; };
+		C9BFB44615A84EE0004370D9 /* RedViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C9BFB44415A84EE0004370D9 /* RedViewController.m */; };
+		C9BFB44715A84EE0004370D9 /* RedView.xib in Resources */ = {isa = PBXBuildFile; fileRef = C9BFB44515A84EE0004370D9 /* RedView.xib */; };
+		C9BFB44B15A84EEE004370D9 /* GreenViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C9BFB44915A84EEE004370D9 /* GreenViewController.m */; };
+		C9BFB44C15A84EEE004370D9 /* GreenView.xib in Resources */ = {isa = PBXBuildFile; fileRef = C9BFB44A15A84EEE004370D9 /* GreenView.xib */; };
+		C9F36B1915A83A86009B6142 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C9F36B1815A83A86009B6142 /* UIKit.framework */; };
+		C9F36B1B15A83A86009B6142 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C9F36B1A15A83A86009B6142 /* Foundation.framework */; };
+		C9F36B1D15A83A86009B6142 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C9F36B1C15A83A86009B6142 /* CoreGraphics.framework */; };
+		C9F36B2315A83A86009B6142 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = C9F36B2115A83A86009B6142 /* InfoPlist.strings */; };
+		C9F36B2515A83A86009B6142 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = C9F36B2415A83A86009B6142 /* main.m */; };
+		C9F36B2915A83A86009B6142 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = C9F36B2815A83A86009B6142 /* AppDelegate.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		C94104D315AB43D000662C25 /* MyMainViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyMainViewController.h; sourceTree = "<group>"; };
+		C94104D415AB43D000662C25 /* MyMainViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyMainViewController.m; sourceTree = "<group>"; };
+		C94104D515AB43D000662C25 /* MyMainViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MyMainViewController.xib; sourceTree = "<group>"; };
+		C9BFB44315A84EE0004370D9 /* RedViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RedViewController.h; sourceTree = "<group>"; };
+		C9BFB44415A84EE0004370D9 /* RedViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RedViewController.m; sourceTree = "<group>"; };
+		C9BFB44515A84EE0004370D9 /* RedView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = RedView.xib; sourceTree = "<group>"; };
+		C9BFB44815A84EEE004370D9 /* GreenViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GreenViewController.h; sourceTree = "<group>"; };
+		C9BFB44915A84EEE004370D9 /* GreenViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GreenViewController.m; sourceTree = "<group>"; };
+		C9BFB44A15A84EEE004370D9 /* GreenView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = GreenView.xib; sourceTree = "<group>"; };
+		C9F36B1415A83A86009B6142 /* MultiView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MultiView.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		C9F36B1815A83A86009B6142 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		C9F36B1A15A83A86009B6142 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		C9F36B1C15A83A86009B6142 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		C9F36B2015A83A86009B6142 /* MultiView-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "MultiView-Info.plist"; sourceTree = "<group>"; };
+		C9F36B2215A83A86009B6142 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		C9F36B2415A83A86009B6142 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		C9F36B2615A83A86009B6142 /* MultiView-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "MultiView-Prefix.pch"; sourceTree = "<group>"; };
+		C9F36B2715A83A86009B6142 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		C9F36B2815A83A86009B6142 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		C9F36B1115A83A86009B6142 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C9F36B1915A83A86009B6142 /* UIKit.framework in Frameworks */,
+				C9F36B1B15A83A86009B6142 /* Foundation.framework in Frameworks */,
+				C9F36B1D15A83A86009B6142 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		C9F36B0915A83A86009B6142 = {
+			isa = PBXGroup;
+			children = (
+				C9F36B1E15A83A86009B6142 /* MultiView */,
+				C9F36B1715A83A86009B6142 /* Frameworks */,
+				C9F36B1515A83A86009B6142 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		C9F36B1515A83A86009B6142 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				C9F36B1415A83A86009B6142 /* MultiView.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		C9F36B1715A83A86009B6142 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				C9F36B1815A83A86009B6142 /* UIKit.framework */,
+				C9F36B1A15A83A86009B6142 /* Foundation.framework */,
+				C9F36B1C15A83A86009B6142 /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		C9F36B1E15A83A86009B6142 /* MultiView */ = {
+			isa = PBXGroup;
+			children = (
+				C9F36B2715A83A86009B6142 /* AppDelegate.h */,
+				C9F36B2815A83A86009B6142 /* AppDelegate.m */,
+				C94104D315AB43D000662C25 /* MyMainViewController.h */,
+				C94104D415AB43D000662C25 /* MyMainViewController.m */,
+				C94104D515AB43D000662C25 /* MyMainViewController.xib */,
+				C9BFB44315A84EE0004370D9 /* RedViewController.h */,
+				C9BFB44415A84EE0004370D9 /* RedViewController.m */,
+				C9BFB44815A84EEE004370D9 /* GreenViewController.h */,
+				C9BFB44915A84EEE004370D9 /* GreenViewController.m */,
+				C9BFB44515A84EE0004370D9 /* RedView.xib */,
+				C9BFB44A15A84EEE004370D9 /* GreenView.xib */,
+				C9F36B1F15A83A86009B6142 /* Supporting Files */,
+			);
+			path = MultiView;
+			sourceTree = "<group>";
+		};
+		C9F36B1F15A83A86009B6142 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				C9F36B2015A83A86009B6142 /* MultiView-Info.plist */,
+				C9F36B2115A83A86009B6142 /* InfoPlist.strings */,
+				C9F36B2415A83A86009B6142 /* main.m */,
+				C9F36B2615A83A86009B6142 /* MultiView-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		C9F36B1315A83A86009B6142 /* MultiView */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C9F36B2C15A83A86009B6142 /* Build configuration list for PBXNativeTarget "MultiView" */;
+			buildPhases = (
+				C9F36B1015A83A86009B6142 /* Sources */,
+				C9F36B1115A83A86009B6142 /* Frameworks */,
+				C9F36B1215A83A86009B6142 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = MultiView;
+			productName = MultiView;
+			productReference = C9F36B1415A83A86009B6142 /* MultiView.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		C9F36B0B15A83A86009B6142 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0430;
+			};
+			buildConfigurationList = C9F36B0E15A83A86009B6142 /* Build configuration list for PBXProject "MultiView" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = C9F36B0915A83A86009B6142;
+			productRefGroup = C9F36B1515A83A86009B6142 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				C9F36B1315A83A86009B6142 /* MultiView */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		C9F36B1215A83A86009B6142 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C9F36B2315A83A86009B6142 /* InfoPlist.strings in Resources */,
+				C9BFB44715A84EE0004370D9 /* RedView.xib in Resources */,
+				C9BFB44C15A84EEE004370D9 /* GreenView.xib in Resources */,
+				C94104D715AB43D000662C25 /* MyMainViewController.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		C9F36B1015A83A86009B6142 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C9F36B2515A83A86009B6142 /* main.m in Sources */,
+				C9F36B2915A83A86009B6142 /* AppDelegate.m in Sources */,
+				C9BFB44615A84EE0004370D9 /* RedViewController.m in Sources */,
+				C9BFB44B15A84EEE004370D9 /* GreenViewController.m in Sources */,
+				C94104D615AB43D000662C25 /* MyMainViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		C9F36B2115A83A86009B6142 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				C9F36B2215A83A86009B6142 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		C9F36B2A15A83A86009B6142 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		C9F36B2B15A83A86009B6142 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		C9F36B2D15A83A86009B6142 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "MultiView/MultiView-Prefix.pch";
+				INFOPLIST_FILE = "MultiView/MultiView-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		C9F36B2E15A83A86009B6142 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "MultiView/MultiView-Prefix.pch";
+				INFOPLIST_FILE = "MultiView/MultiView-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		C9F36B0E15A83A86009B6142 /* Build configuration list for PBXProject "MultiView" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C9F36B2A15A83A86009B6142 /* Debug */,
+				C9F36B2B15A83A86009B6142 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C9F36B2C15A83A86009B6142 /* Build configuration list for PBXNativeTarget "MultiView" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C9F36B2D15A83A86009B6142 /* Debug */,
+				C9F36B2E15A83A86009B6142 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = C9F36B0B15A83A86009B6142 /* Project object */;
+}

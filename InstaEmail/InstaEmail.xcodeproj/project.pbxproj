@@ -1,0 +1,288 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		C9E93F5415A193AB004BF5D5 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C9E93F5315A193AB004BF5D5 /* UIKit.framework */; };
+		C9E93F5615A193AB004BF5D5 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C9E93F5515A193AB004BF5D5 /* Foundation.framework */; };
+		C9E93F5815A193AB004BF5D5 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C9E93F5715A193AB004BF5D5 /* CoreGraphics.framework */; };
+		C9E93F5E15A193AB004BF5D5 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = C9E93F5C15A193AB004BF5D5 /* InfoPlist.strings */; };
+		C9E93F6015A193AB004BF5D5 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = C9E93F5F15A193AB004BF5D5 /* main.m */; };
+		C9E93F6415A193AB004BF5D5 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = C9E93F6315A193AB004BF5D5 /* AppDelegate.m */; };
+		C9E93F6715A193AB004BF5D5 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C9E93F6615A193AB004BF5D5 /* ViewController.m */; };
+		C9E93F6A15A193AB004BF5D5 /* ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = C9E93F6815A193AB004BF5D5 /* ViewController.xib */; };
+		C9E93F7115A193F1004BF5D5 /* MessageUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C9E93F7015A193F1004BF5D5 /* MessageUI.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		C9E93F4F15A193AB004BF5D5 /* InstaEmail.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = InstaEmail.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		C9E93F5315A193AB004BF5D5 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		C9E93F5515A193AB004BF5D5 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		C9E93F5715A193AB004BF5D5 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		C9E93F5B15A193AB004BF5D5 /* InstaEmail-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "InstaEmail-Info.plist"; sourceTree = "<group>"; };
+		C9E93F5D15A193AB004BF5D5 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		C9E93F5F15A193AB004BF5D5 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		C9E93F6115A193AB004BF5D5 /* InstaEmail-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "InstaEmail-Prefix.pch"; sourceTree = "<group>"; };
+		C9E93F6215A193AB004BF5D5 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		C9E93F6315A193AB004BF5D5 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		C9E93F6515A193AB004BF5D5 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		C9E93F6615A193AB004BF5D5 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		C9E93F6915A193AB004BF5D5 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ViewController.xib; sourceTree = "<group>"; };
+		C9E93F7015A193F1004BF5D5 /* MessageUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MessageUI.framework; path = System/Library/Frameworks/MessageUI.framework; sourceTree = SDKROOT; };
+		C9E93F7215A1940A004BF5D5 /* MessageUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MessageUI.framework; path = System/Library/Frameworks/MessageUI.framework; sourceTree = SDKROOT; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		C9E93F4C15A193AB004BF5D5 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C9E93F7115A193F1004BF5D5 /* MessageUI.framework in Frameworks */,
+				C9E93F5415A193AB004BF5D5 /* UIKit.framework in Frameworks */,
+				C9E93F5615A193AB004BF5D5 /* Foundation.framework in Frameworks */,
+				C9E93F5815A193AB004BF5D5 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		C9E93F4415A193AB004BF5D5 = {
+			isa = PBXGroup;
+			children = (
+				C9E93F7015A193F1004BF5D5 /* MessageUI.framework */,
+				C9E93F5915A193AB004BF5D5 /* InstaEmail */,
+				C9E93F5215A193AB004BF5D5 /* Frameworks */,
+				C9E93F5015A193AB004BF5D5 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		C9E93F5015A193AB004BF5D5 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				C9E93F4F15A193AB004BF5D5 /* InstaEmail.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		C9E93F5215A193AB004BF5D5 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				C9E93F5315A193AB004BF5D5 /* UIKit.framework */,
+				C9E93F5515A193AB004BF5D5 /* Foundation.framework */,
+				C9E93F7215A1940A004BF5D5 /* MessageUI.framework */,
+				C9E93F5715A193AB004BF5D5 /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		C9E93F5915A193AB004BF5D5 /* InstaEmail */ = {
+			isa = PBXGroup;
+			children = (
+				C9E93F6215A193AB004BF5D5 /* AppDelegate.h */,
+				C9E93F6315A193AB004BF5D5 /* AppDelegate.m */,
+				C9E93F6515A193AB004BF5D5 /* ViewController.h */,
+				C9E93F6615A193AB004BF5D5 /* ViewController.m */,
+				C9E93F6815A193AB004BF5D5 /* ViewController.xib */,
+				C9E93F5A15A193AB004BF5D5 /* Supporting Files */,
+			);
+			path = InstaEmail;
+			sourceTree = "<group>";
+		};
+		C9E93F5A15A193AB004BF5D5 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				C9E93F5B15A193AB004BF5D5 /* InstaEmail-Info.plist */,
+				C9E93F5C15A193AB004BF5D5 /* InfoPlist.strings */,
+				C9E93F5F15A193AB004BF5D5 /* main.m */,
+				C9E93F6115A193AB004BF5D5 /* InstaEmail-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		C9E93F4E15A193AB004BF5D5 /* InstaEmail */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C9E93F6D15A193AB004BF5D5 /* Build configuration list for PBXNativeTarget "InstaEmail" */;
+			buildPhases = (
+				C9E93F4B15A193AB004BF5D5 /* Sources */,
+				C9E93F4C15A193AB004BF5D5 /* Frameworks */,
+				C9E93F4D15A193AB004BF5D5 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = InstaEmail;
+			productName = InstaEmail;
+			productReference = C9E93F4F15A193AB004BF5D5 /* InstaEmail.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		C9E93F4615A193AB004BF5D5 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0430;
+			};
+			buildConfigurationList = C9E93F4915A193AB004BF5D5 /* Build configuration list for PBXProject "InstaEmail" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = C9E93F4415A193AB004BF5D5;
+			productRefGroup = C9E93F5015A193AB004BF5D5 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				C9E93F4E15A193AB004BF5D5 /* InstaEmail */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		C9E93F4D15A193AB004BF5D5 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C9E93F5E15A193AB004BF5D5 /* InfoPlist.strings in Resources */,
+				C9E93F6A15A193AB004BF5D5 /* ViewController.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		C9E93F4B15A193AB004BF5D5 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C9E93F6015A193AB004BF5D5 /* main.m in Sources */,
+				C9E93F6415A193AB004BF5D5 /* AppDelegate.m in Sources */,
+				C9E93F6715A193AB004BF5D5 /* ViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		C9E93F5C15A193AB004BF5D5 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				C9E93F5D15A193AB004BF5D5 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		C9E93F6815A193AB004BF5D5 /* ViewController.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				C9E93F6915A193AB004BF5D5 /* en */,
+			);
+			name = ViewController.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		C9E93F6B15A193AB004BF5D5 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		C9E93F6C15A193AB004BF5D5 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		C9E93F6E15A193AB004BF5D5 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "InstaEmail/InstaEmail-Prefix.pch";
+				INFOPLIST_FILE = "InstaEmail/InstaEmail-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		C9E93F6F15A193AB004BF5D5 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "InstaEmail/InstaEmail-Prefix.pch";
+				INFOPLIST_FILE = "InstaEmail/InstaEmail-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		C9E93F4915A193AB004BF5D5 /* Build configuration list for PBXProject "InstaEmail" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C9E93F6B15A193AB004BF5D5 /* Debug */,
+				C9E93F6C15A193AB004BF5D5 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C9E93F6D15A193AB004BF5D5 /* Build configuration list for PBXNativeTarget "InstaEmail" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C9E93F6E15A193AB004BF5D5 /* Debug */,
+				C9E93F6F15A193AB004BF5D5 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = C9E93F4615A193AB004BF5D5 /* Project object */;
+}

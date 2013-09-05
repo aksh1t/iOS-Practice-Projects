@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>After Dinner Mint</string>
+		<key>ingredients</key>
+		<string>Mint</string>
+		<key>directions</key>
+		<string>Shake</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>After Dinner Lemon</string>
+		<key>ingredients</key>
+		<string>Lemon</string>
+		<key>directions</key>
+		<string>Stir</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>After Dinner Coke</string>
+		<key>ingredients</key>
+		<string>Coke</string>
+		<key>directions</key>
+		<string>On the rocks</string>
+	</dict>
+</array>
+</plist>

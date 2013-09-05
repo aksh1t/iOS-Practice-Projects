@@ -1,0 +1,282 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		C936170915A18E9700C35A4D /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C936170815A18E9700C35A4D /* UIKit.framework */; };
+		C936170B15A18E9700C35A4D /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C936170A15A18E9700C35A4D /* Foundation.framework */; };
+		C936170D15A18E9700C35A4D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C936170C15A18E9700C35A4D /* CoreGraphics.framework */; };
+		C936171315A18E9700C35A4D /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = C936171115A18E9700C35A4D /* InfoPlist.strings */; };
+		C936171515A18E9700C35A4D /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = C936171415A18E9700C35A4D /* main.m */; };
+		C936171915A18E9700C35A4D /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = C936171815A18E9700C35A4D /* AppDelegate.m */; };
+		C936171C15A18E9700C35A4D /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C936171B15A18E9700C35A4D /* ViewController.m */; };
+		C936171F15A18E9700C35A4D /* ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = C936171D15A18E9700C35A4D /* ViewController.xib */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		C936170415A18E9700C35A4D /* iDecide.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iDecide.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		C936170815A18E9700C35A4D /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		C936170A15A18E9700C35A4D /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		C936170C15A18E9700C35A4D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		C936171015A18E9700C35A4D /* iDecide-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "iDecide-Info.plist"; sourceTree = "<group>"; };
+		C936171215A18E9700C35A4D /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		C936171415A18E9700C35A4D /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		C936171615A18E9700C35A4D /* iDecide-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "iDecide-Prefix.pch"; sourceTree = "<group>"; };
+		C936171715A18E9700C35A4D /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		C936171815A18E9700C35A4D /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		C936171A15A18E9700C35A4D /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		C936171B15A18E9700C35A4D /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		C936171E15A18E9700C35A4D /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ViewController.xib; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		C936170115A18E9700C35A4D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C936170915A18E9700C35A4D /* UIKit.framework in Frameworks */,
+				C936170B15A18E9700C35A4D /* Foundation.framework in Frameworks */,
+				C936170D15A18E9700C35A4D /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		C93616F915A18E9600C35A4D = {
+			isa = PBXGroup;
+			children = (
+				C936170E15A18E9700C35A4D /* iDecide */,
+				C936170715A18E9700C35A4D /* Frameworks */,
+				C936170515A18E9700C35A4D /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		C936170515A18E9700C35A4D /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				C936170415A18E9700C35A4D /* iDecide.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		C936170715A18E9700C35A4D /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				C936170815A18E9700C35A4D /* UIKit.framework */,
+				C936170A15A18E9700C35A4D /* Foundation.framework */,
+				C936170C15A18E9700C35A4D /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		C936170E15A18E9700C35A4D /* iDecide */ = {
+			isa = PBXGroup;
+			children = (
+				C936171715A18E9700C35A4D /* AppDelegate.h */,
+				C936171815A18E9700C35A4D /* AppDelegate.m */,
+				C936171A15A18E9700C35A4D /* ViewController.h */,
+				C936171B15A18E9700C35A4D /* ViewController.m */,
+				C936171D15A18E9700C35A4D /* ViewController.xib */,
+				C936170F15A18E9700C35A4D /* Supporting Files */,
+			);
+			path = iDecide;
+			sourceTree = "<group>";
+		};
+		C936170F15A18E9700C35A4D /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				C936171015A18E9700C35A4D /* iDecide-Info.plist */,
+				C936171115A18E9700C35A4D /* InfoPlist.strings */,
+				C936171415A18E9700C35A4D /* main.m */,
+				C936171615A18E9700C35A4D /* iDecide-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		C936170315A18E9700C35A4D /* iDecide */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C936172215A18E9700C35A4D /* Build configuration list for PBXNativeTarget "iDecide" */;
+			buildPhases = (
+				C936170015A18E9700C35A4D /* Sources */,
+				C936170115A18E9700C35A4D /* Frameworks */,
+				C936170215A18E9700C35A4D /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = iDecide;
+			productName = iDecide;
+			productReference = C936170415A18E9700C35A4D /* iDecide.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		C93616FB15A18E9600C35A4D /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0430;
+			};
+			buildConfigurationList = C93616FE15A18E9600C35A4D /* Build configuration list for PBXProject "iDecide" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = C93616F915A18E9600C35A4D;
+			productRefGroup = C936170515A18E9700C35A4D /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				C936170315A18E9700C35A4D /* iDecide */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		C936170215A18E9700C35A4D /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C936171315A18E9700C35A4D /* InfoPlist.strings in Resources */,
+				C936171F15A18E9700C35A4D /* ViewController.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		C936170015A18E9700C35A4D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C936171515A18E9700C35A4D /* main.m in Sources */,
+				C936171915A18E9700C35A4D /* AppDelegate.m in Sources */,
+				C936171C15A18E9700C35A4D /* ViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		C936171115A18E9700C35A4D /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				C936171215A18E9700C35A4D /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		C936171D15A18E9700C35A4D /* ViewController.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				C936171E15A18E9700C35A4D /* en */,
+			);
+			name = ViewController.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		C936172015A18E9700C35A4D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		C936172115A18E9700C35A4D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		C936172315A18E9700C35A4D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "iDecide/iDecide-Prefix.pch";
+				INFOPLIST_FILE = "iDecide/iDecide-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		C936172415A18E9700C35A4D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "iDecide/iDecide-Prefix.pch";
+				INFOPLIST_FILE = "iDecide/iDecide-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		C93616FE15A18E9600C35A4D /* Build configuration list for PBXProject "iDecide" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C936172015A18E9700C35A4D /* Debug */,
+				C936172115A18E9700C35A4D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C936172215A18E9700C35A4D /* Build configuration list for PBXNativeTarget "iDecide" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C936172315A18E9700C35A4D /* Debug */,
+				C936172415A18E9700C35A4D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = C93616FB15A18E9600C35A4D /* Project object */;
+}
