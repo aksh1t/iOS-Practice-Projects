@@ -26,6 +26,7 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
+    NSLog(@"vc1 %@",self.view);
 }
 
 - (void)didReceiveMemoryWarning
@@ -37,13 +38,11 @@
 }
 
 -(IBAction)customExitMethod:(UIStoryboardSegue *)myStoryboardSegue{
-    
     UIViewController *src = myStoryboardSegue.sourceViewController;
-    
-    [UIView animateWithDuration:0.2 animations:^{
-        src.view.transform = CGAffineTransformScale(CGAffineTransformIdentity, 0.001, 0.001);
+    [UIView animateWithDuration:5 animations:^{
+        src.view.transform = CGAffineTransformScale(CGAffineTransformIdentity, 0.01, 0.01);
     } completion:^(BOOL finished) {
-        [src.navigationController popToRootViewControllerAnimated:NO];
+//        [src.navigationController popToRootViewControllerAnimated:NO];
     }];
 }
 

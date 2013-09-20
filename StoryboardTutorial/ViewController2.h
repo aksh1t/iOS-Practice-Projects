@@ -10,4 +10,6 @@
 
 @interface ViewController2 : UIViewController
 
+-(IBAction)customExitMethod;
+
 @end

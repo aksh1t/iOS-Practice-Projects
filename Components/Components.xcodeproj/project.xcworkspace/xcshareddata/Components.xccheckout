@@ -5,16 +5,16 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>649EF560-C28F-493F-B358-2F89FE88AA51</string>
+	<string>FDB56C3C-4D1F-4DAF-ADBE-0DD2D9A99812</string>
 	<key>IDESourceControlProjectName</key>
-	<string>CustomTableApp</string>
+	<string>Components</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>9BA2A8AC-4B4F-425A-A47B-BFBA39A86A52</key>
 		<string>https://github.com/aksh1t/iOS-Practice-Projects</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>CustomTableApp/CustomTableApp.xcodeproj/project.xcworkspace</string>
+	<string>Components/Components.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>9BA2A8AC-4B4F-425A-A47B-BFBA39A86A52</key>

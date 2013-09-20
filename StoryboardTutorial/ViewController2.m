@@ -35,4 +35,13 @@
 - (void)viewDidAppear:(BOOL)animated{
 }
 
+-(IBAction)customExitMethod{
+    NSLog(@"superview %@",[self.view superview]);
+//    [UIView animateWithDuration:0.2 animations:^{
+//        self.view.transform = CGAffineTransformScale(CGAffineTransformIdentity, 0.001, 0.001);
+//    } completion:^(BOOL finished) {
+//        [self.navigationController presentViewController:(UINavigationController *)[[self.view superview] superclass] animated:NO completion:^(void){}];
+//    }];
+}
+
 @end

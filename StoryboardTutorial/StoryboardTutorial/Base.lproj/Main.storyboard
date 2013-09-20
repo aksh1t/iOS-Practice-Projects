@@ -146,7 +146,7 @@
                                     <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <connections>
-                                    <segue destination="FbF-yn-XQX" kind="unwind" unwindAction="customExitMethod:" id="C3V-2W-CDb"/>
+                                    <segue destination="FbF-yn-XQX" kind="unwind" unwindAction="customExitMethod:" id="SZY-NM-OlN"/>
                                 </connections>
                             </button>
                         </subviews>
@@ -161,6 +161,24 @@
             <point key="canvasLocation" x="663" y="-324"/>
         </scene>
     </scenes>
+    <classes>
+        <class className="UIStoryboardSegue" superclassName="NSObject">
+            <source key="sourceIdentifier" type="project" relativePath="./Classes/UIStoryboardSegue.h"/>
+        </class>
+        <class className="ViewController1" superclassName="UIViewController">
+            <source key="sourceIdentifier" type="project" relativePath="./Classes/ViewController1.h"/>
+            <relationships>
+                <relationship kind="action" name="customExitMethod:" candidateClass="UIStoryboardSegue"/>
+                <relationship kind="action" name="exitMethod:" candidateClass="UIStoryboardSegue"/>
+            </relationships>
+        </class>
+        <class className="ViewController2" superclassName="UIViewController">
+            <source key="sourceIdentifier" type="project" relativePath="./Classes/ViewController2.h"/>
+            <relationships>
+                <relationship kind="action" name="customExitMethod"/>
+            </relationships>
+        </class>
+    </classes>
     <simulatedMetricsContainer key="defaultSimulatedMetrics">
         <simulatedStatusBarMetrics key="statusBar"/>
         <simulatedOrientationMetrics key="orientation"/>

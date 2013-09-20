@@ -2,22 +2,20 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
-	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>649EF560-C28F-493F-B358-2F89FE88AA51</string>
+	<string>840FA790-8593-4496-9990-A79B66C626C1</string>
 	<key>IDESourceControlProjectName</key>
-	<string>CustomTableApp</string>
+	<string>StoryboardTutorial</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>9BA2A8AC-4B4F-425A-A47B-BFBA39A86A52</key>
+		<key>1D925F8C-2CD2-4C57-8832-245B0D5A9F4D</key>
 		<string>https://github.com/aksh1t/iOS-Practice-Projects</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>CustomTableApp/CustomTableApp.xcodeproj/project.xcworkspace</string>
+	<string>StoryboardTutorial/StoryboardTutorial.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>9BA2A8AC-4B4F-425A-A47B-BFBA39A86A52</key>
+		<key>1D925F8C-2CD2-4C57-8832-245B0D5A9F4D</key>
 		<string>../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
@@ -25,14 +23,14 @@
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>9BA2A8AC-4B4F-425A-A47B-BFBA39A86A52</string>
+	<string>1D925F8C-2CD2-4C57-8832-245B0D5A9F4D</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>9BA2A8AC-4B4F-425A-A47B-BFBA39A86A52</string>
+			<string>1D925F8C-2CD2-4C57-8832-245B0D5A9F4D</string>
 			<key>IDESourceControlWCCName</key>
 			<string>iOS-Practice-Projects</string>
 		</dict>
