@@ -1,0 +1,21 @@
+PODS:
+  - AFNetworking (0.9.1)
+  - ConciseKit (0.1.2)
+  - Nimbus/AttributedLabel (1.0.0):
+    - Nimbus/Core
+  - Nimbus/Core (1.0.0)
+  - SSToolkit (1.0.4)
+
+DEPENDENCIES:
+  - AFNetworking (= 0.9.1)
+  - ConciseKit
+  - Nimbus/AttributedLabel
+  - SSToolkit
+
+SPEC CHECKSUMS:
+  AFNetworking: 081ec3c1f4768c87ae79d69a96fcc9479e232e81
+  ConciseKit: 1e086a66d098ba160ca5faa86458a0431b280b30
+  Nimbus: 01c4339214b2f35be2e9284cb6e98beb7fe0f08a
+  SSToolkit: 689acaedac79c2079e492e528a55bcb5db9d98c4
+
+COCOAPODS: 0.29.0

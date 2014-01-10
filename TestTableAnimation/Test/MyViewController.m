@@ -183,14 +183,20 @@
     
         //shadow on
         CABasicAnimation *anim = [CABasicAnimation animationWithKeyPath:@"shadowOpacity"];
+        
+        //
+//        anim.delegate = self;
+//        [UIView setAnimationDidStopSelector:@selector(animationDidStop:finished:)];
+//        
+        //
         anim.fromValue = [NSNumber numberWithFloat:0.0];
         anim.toValue = [NSNumber numberWithFloat:0.75];
         anim.duration = 0.75;
         
-        dispatch_async(dispatch_get_global_queue( DISPATCH_QUEUE_PRIORITY_DEFAULT, 0), ^{
+//        dispatch_async(dispatch_get_global_queue( DISPATCH_QUEUE_PRIORITY_DEFAULT, 0), ^{
             [cell.layer addAnimation:anim forKey:@"shadowOpacity"];
-            sleep(0.75);
-        });
+//            sleep(0.75);
+//        });
         cell.layer.shadowOpacity = 0.75;
         
         
@@ -201,14 +207,19 @@
         anim.fromValue = [NSNumber numberWithFloat:0.75];
         anim.toValue = [NSNumber numberWithFloat:0.0];
         anim.duration = 0.75;
-        dispatch_async(dispatch_get_global_queue( DISPATCH_QUEUE_PRIORITY_DEFAULT, 0), ^{
+//        dispatch_async(dispatch_get_global_queue( DISPATCH_QUEUE_PRIORITY_DEFAULT, 0), ^{
             [cell.layer addAnimation:anim forKey:@"shadowOpacity"];
-        });
+//        });
         cell.layer.shadowOpacity = 0.0;
         [myTableView endUpdates];
     }
 }
 
+
+//- (void)animationDidStop:(CAAnimation *)theAnimation2 finished:(BOOL)flag {
+//
+//
+//}
 
 //Animation{
 //    

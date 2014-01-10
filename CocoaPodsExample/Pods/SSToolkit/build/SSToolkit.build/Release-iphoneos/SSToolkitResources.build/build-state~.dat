@@ -1,0 +1,1277 @@
+TSSToolkitResources
+v6
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/Info.plist /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/SSToolkitResources-Info.plist
+cCopyStringsFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/en.lproj/SSToolkit.strings Resources/en.lproj/SSToolkit.strings
+cCopyStringsFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/de.lproj/SSToolkit.strings Resources/de.lproj/SSToolkit.strings
+cCopyStringsFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/es.lproj/SSToolkit.strings Resources/es.lproj/SSToolkit.strings
+cCopyStringsFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/fr.lproj/SSToolkit.strings Resources/fr.lproj/SSToolkit.strings
+cCopyStringsFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/id.lproj/SSToolkit.strings Resources/id.lproj/SSToolkit.strings
+cCopyStringsFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/it.lproj/SSToolkit.strings Resources/it.lproj/SSToolkit.strings
+cCopyStringsFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/ja.lproj/SSToolkit.strings Resources/ja.lproj/SSToolkit.strings
+cCopyStringsFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/ko.lproj/SSToolkit.strings Resources/ko.lproj/SSToolkit.strings
+cCopyStringsFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/ms.lproj/SSToolkit.strings Resources/ms.lproj/SSToolkit.strings
+cCopyStringsFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/nl.lproj/SSToolkit.strings Resources/nl.lproj/SSToolkit.strings
+cCopyStringsFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/pt_PT.lproj/SSToolkit.strings Resources/pt_PT.lproj/SSToolkit.strings
+cCopyStringsFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/pt.lproj/SSToolkit.strings Resources/pt.lproj/SSToolkit.strings
+cCopyStringsFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/ru.lproj/SSToolkit.strings Resources/ru.lproj/SSToolkit.strings
+cCopyStringsFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/sv.lproj/SSToolkit.strings Resources/sv.lproj/SSToolkit.strings
+cCopyStringsFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/zh_Hans.lproj/SSToolkit.strings Resources/zh_Hans.lproj/SSToolkit.strings
+cCopyStringsFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/zh_Hant.lproj/SSToolkit.strings Resources/zh_Hant.lproj/SSToolkit.strings
+cCopyPNGFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/hud-check.png Resources/Images/hud-check.png
+cCopyPNGFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/hud-check@2x.png Resources/Images/hud-check@2x.png
+cCopyPNGFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/hud-x.png Resources/Images/hud-x.png
+cCopyPNGFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/hud-x@2x.png Resources/Images/hud-x@2x.png
+cCopyPNGFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/gray-star.png Resources/Images/gray-star.png
+cCopyPNGFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/gray-star@2x.png Resources/Images/gray-star@2x.png
+cCopyPNGFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/orange-star.png Resources/Images/orange-star.png
+cCopyPNGFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/orange-star@2x.png Resources/Images/orange-star@2x.png
+cCopyPNGFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldBackground.png Resources/Images/SSAddressBarTextFieldBackground.png
+cCopyPNGFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldBackground@2x.png Resources/Images/SSAddressBarTextFieldBackground@2x.png
+cCopyPNGFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldReload.png Resources/Images/SSAddressBarTextFieldReload.png
+cCopyPNGFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldReload@2x.png Resources/Images/SSAddressBarTextFieldReload@2x.png
+cCopyPNGFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldStop.png Resources/Images/SSAddressBarTextFieldStop.png
+cCopyPNGFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldStop@2x.png Resources/Images/SSAddressBarTextFieldStop@2x.png
+cCopyPNGFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButton.png Resources/Images/UISegmentBarButton.png
+cCopyPNGFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButton@2x.png Resources/Images/UISegmentBarButton@2x.png
+cCopyPNGFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButtonHighlighted.png Resources/Images/UISegmentBarButtonHighlighted.png
+cCopyPNGFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButtonHighlighted@2x.png Resources/Images/UISegmentBarButtonHighlighted@2x.png
+cCopyPNGFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDivider.png Resources/Images/UISegmentBarDivider.png
+cCopyPNGFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDivider@2x.png Resources/Images/UISegmentBarDivider@2x.png
+cCopyPNGFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDividerHighlighted.png Resources/Images/UISegmentBarDividerHighlighted.png
+cCopyPNGFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDividerHighlighted@2x.png Resources/Images/UISegmentBarDividerHighlighted@2x.png
+cCopyPNGFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/action-button-mini.png Resources/Images/action-button-mini.png
+cCopyPNGFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/action-button-mini@2x.png Resources/Images/action-button-mini@2x.png
+cCopyPNGFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/action-button.png Resources/Images/action-button.png
+cCopyPNGFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/action-button@2x.png Resources/Images/action-button@2x.png
+cCopyPNGFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/back-button-mini.png Resources/Images/back-button-mini.png
+cCopyPNGFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/back-button-mini@2x.png Resources/Images/back-button-mini@2x.png
+cCopyPNGFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/back-button.png Resources/Images/back-button.png
+cCopyPNGFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/back-button@2x.png Resources/Images/back-button@2x.png
+cCopyPNGFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/forward-button-mini.png Resources/Images/forward-button-mini.png
+cCopyPNGFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/forward-button-mini@2x.png Resources/Images/forward-button-mini@2x.png
+cCopyPNGFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/forward-button.png Resources/Images/forward-button.png
+cCopyPNGFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/forward-button@2x.png Resources/Images/forward-button@2x.png
+cCopyPNGFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/reload-button-mini.png Resources/Images/reload-button-mini.png
+cCopyPNGFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/reload-button-mini@2x.png Resources/Images/reload-button-mini@2x.png
+cCopyPNGFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/reload-button.png Resources/Images/reload-button.png
+cCopyPNGFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/reload-button@2x.png Resources/Images/reload-button@2x.png
+cCopyPNGFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/safari-button-mini.png Resources/Images/safari-button-mini.png
+cCopyPNGFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/safari-button-mini@2x.png Resources/Images/safari-button-mini@2x.png
+cCopyPNGFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/safari-button.png Resources/Images/safari-button.png
+cCopyPNGFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/safari-button@2x.png Resources/Images/safari-button@2x.png
+cCopyPNGFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/stop-button-mini.png Resources/Images/stop-button-mini.png
+cCopyPNGFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/stop-button-mini@2x.png Resources/Images/stop-button-mini@2x.png
+cCopyPNGFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/stop-button.png Resources/Images/stop-button.png
+cCopyPNGFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/stop-button@2x.png Resources/Images/stop-button@2x.png
+cTouch /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/./SSToolkitResources.bundle
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldBackground.png
+c0000000052CBEECD0000000000000100
+t1389096653
+s256
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldBackground@2x.png
+c0000000052CBEECD000000000000015E
+t1389096653
+s350
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldReload.png
+c0000000052CBEECD000000000000036F
+t1389096653
+s879
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldReload@2x.png
+c0000000052CBEECD00000000000004E0
+t1389096653
+s1248
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldStop.png
+c0000000052CBEECD000000000000027C
+t1389096653
+s636
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldStop@2x.png
+c0000000052CBEECD00000000000003C9
+t1389096653
+s969
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/UISegmentBarButton.png
+c0000000052CBEECD0000000000000240
+t1389096653
+s576
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/UISegmentBarButton@2x.png
+c0000000052CBEECD0000000000000525
+t1389096653
+s1317
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/UISegmentBarButtonHighlighted.png
+c0000000052CBEECD0000000000000248
+t1389096653
+s584
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/UISegmentBarButtonHighlighted@2x.png
+c0000000052CBEECD000000000000053E
+t1389096653
+s1342
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/UISegmentBarDivider.png
+c0000000052CBEECD000000000000008E
+t1389096653
+s142
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/UISegmentBarDivider@2x.png
+c0000000052CBEECD00000000000000CC
+t1389096653
+s204
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/UISegmentBarDividerHighlighted.png
+c0000000052CBEECD000000000000008E
+t1389096653
+s142
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/UISegmentBarDividerHighlighted@2x.png
+c0000000052CBEECD00000000000000E7
+t1389096653
+s231
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/action-button-mini.png
+c0000000052CBEECD000000000000012C
+t1389096653
+s300
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/action-button-mini@2x.png
+c0000000052CBEECD00000000000001FE
+t1389096653
+s510
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/action-button.png
+c0000000052CBEECD000000000000015F
+t1389096653
+s351
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/action-button@2x.png
+c0000000052CBEECD0000000000000262
+t1389096653
+s610
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/back-button-mini.png
+c0000000052CBEECD000000000000008E
+t1389096653
+s142
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/back-button-mini@2x.png
+c0000000052CBEECD00000000000000FC
+t1389096653
+s252
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/back-button.png
+c0000000052CBEECD00000000000000BB
+t1389096653
+s187
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/back-button@2x.png
+c0000000052CBEECD00000000000000FD
+t1389096653
+s253
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/forward-button-mini.png
+c0000000052CBEECD0000000000000094
+t1389096653
+s148
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/forward-button-mini@2x.png
+c0000000052CBEECD00000000000000ED
+t1389096653
+s237
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/forward-button.png
+c0000000052CBEECD00000000000000AE
+t1389096653
+s174
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/forward-button@2x.png
+c0000000052CBEECD0000000000000104
+t1389096653
+s260
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/gray-star.png
+c0000000052CBEECD0000000000000DC4
+t1389096653
+s3524
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/gray-star@2x.png
+c0000000052CBEECD000000000000118E
+t1389096653
+s4494
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/hud-check.png
+c0000000052CBEECD00000000000001A1
+t1389096653
+s417
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/hud-check@2x.png
+c0000000052CBEECD0000000000000299
+t1389096653
+s665
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/hud-x.png
+c0000000052CBEECD00000000000001BA
+t1389096653
+s442
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/hud-x@2x.png
+c0000000052CBEECD0000000000000310
+t1389096653
+s784
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/orange-star.png
+c0000000052CBEECD0000000000000EB3
+t1389096653
+s3763
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/orange-star@2x.png
+c0000000052CBEECD0000000000001456
+t1389096653
+s5206
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/reload-button-mini.png
+c0000000052CBEECD0000000000000106
+t1389096653
+s262
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/reload-button-mini@2x.png
+c0000000052CBEECD000000000000020E
+t1389096653
+s526
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/reload-button.png
+c0000000052CBEECD0000000000000175
+t1389096653
+s373
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/reload-button@2x.png
+c0000000052CBEECD00000000000002AE
+t1389096653
+s686
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/safari-button-mini.png
+c0000000052CBEECD0000000000000116
+t1389096653
+s278
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/safari-button-mini@2x.png
+c0000000052CBEECD00000000000002A4
+t1389096653
+s676
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/safari-button.png
+c0000000052CBEECD00000000000001A2
+t1389096653
+s418
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/safari-button@2x.png
+c0000000052CBEECD0000000000000317
+t1389096653
+s791
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/stop-button-mini.png
+c0000000052CBEECD00000000000000D2
+t1389096653
+s210
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/stop-button-mini@2x.png
+c0000000052CBEECD0000000000000135
+t1389096653
+s309
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/stop-button.png
+c0000000052CBEECD00000000000000FC
+t1389096653
+s252
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/stop-button@2x.png
+c0000000052CBEECD0000000000000170
+t1389096653
+s368
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/SSToolkitResources-Info.plist
+c0000000052CBEECD0000000000000572
+t1389096653
+s1394
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/de.lproj/SSToolkit.strings
+c0000000052CBEECD0000000000000369
+t1389096653
+s873
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/en.lproj/SSToolkit.strings
+c0000000052CBEECE0000000000000352
+t1389096654
+s850
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/es.lproj/SSToolkit.strings
+c0000000052CBEECE0000000000000374
+t1389096654
+s884
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/fr.lproj/SSToolkit.strings
+c0000000052CBEECE0000000000000361
+t1389096654
+s865
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/id.lproj/SSToolkit.strings
+c0000000052CBEECE0000000000000361
+t1389096654
+s865
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/it.lproj/SSToolkit.strings
+c0000000052CBEECE000000000000035C
+t1389096654
+s860
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/ja.lproj/SSToolkit.strings
+c0000000052CBEECE00000000000005F0
+t1389096654
+s1520
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/ko.lproj/SSToolkit.strings
+c0000000052CBEECE000000000000033A
+t1389096654
+s826
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/ms.lproj/SSToolkit.strings
+c0000000052CBEECE0000000000000370
+t1389096654
+s880
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/nl.lproj/SSToolkit.strings
+c0000000052CBEECE0000000000000376
+t1389096654
+s886
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/pt.lproj/SSToolkit.strings
+c0000000052CBEECE000000000000035A
+t1389096654
+s858
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/pt_PT.lproj/SSToolkit.strings
+c0000000052CBEECE0000000000000361
+t1389096654
+s865
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/ru.lproj/SSToolkit.strings
+c0000000052CBEECE0000000000000382
+t1389096654
+s898
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/sv.lproj/SSToolkit.strings
+c0000000052CBEECE000000000000036C
+t1389096654
+s876
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/zh_Hans.lproj/SSToolkit.strings
+c0000000052CBEECE000000000000035A
+t1389096654
+s858
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/zh_Hant.lproj/SSToolkit.strings
+c0000000052CBEECE0000000000000358
+t1389096654
+s856
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle
+t1389096663
+s2210
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/Info.plist
+t1389096661
+s1191
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldBackground.png
+t1389096662
+s234
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldBackground@2x.png
+t1389096662
+s414
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldReload.png
+t1389096662
+s887
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldReload@2x.png
+t1389096662
+s1144
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldStop.png
+t1389096662
+s482
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldStop@2x.png
+t1389096662
+s824
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButton.png
+t1389096662
+s623
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButton@2x.png
+t1389096662
+s1775
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButtonHighlighted.png
+t1389096662
+s611
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButtonHighlighted@2x.png
+t1389096662
+s1623
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDivider.png
+t1389096662
+s183
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDivider@2x.png
+t1389096662
+s340
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDividerHighlighted.png
+t1389096662
+s182
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDividerHighlighted@2x.png
+t1389096662
+s346
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/action-button-mini.png
+t1389096662
+s466
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/action-button-mini@2x.png
+t1389096662
+s871
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/action-button.png
+t1389096662
+s575
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/action-button@2x.png
+t1389096662
+s1062
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/back-button-mini.png
+t1389096662
+s180
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/back-button-mini@2x.png
+t1389096662
+s395
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/back-button.png
+t1389096662
+s249
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/back-button@2x.png
+t1389096662
+s378
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/de.lproj/SSToolkit.strings
+t1389096661
+s581
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/en.lproj/SSToolkit.strings
+t1389096661
+s306
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/es.lproj/SSToolkit.strings
+t1389096661
+s548
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/forward-button-mini.png
+t1389096662
+s190
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/forward-button-mini@2x.png
+t1389096662
+s341
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/forward-button.png
+t1389096662
+s204
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/forward-button@2x.png
+t1389096663
+s349
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/fr.lproj/SSToolkit.strings
+t1389096661
+s489
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/gray-star.png
+t1389096662
+s3526
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/gray-star@2x.png
+t1389096662
+s4956
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/hud-check.png
+t1389096662
+s393
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/hud-check@2x.png
+t1389096662
+s629
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/hud-x.png
+t1389096662
+s442
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/hud-x@2x.png
+t1389096662
+s818
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/id.lproj/SSToolkit.strings
+t1389096661
+s481
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/it.lproj/SSToolkit.strings
+t1389096661
+s530
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/ja.lproj/SSToolkit.strings
+t1389096661
+s482
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/ko.lproj/SSToolkit.strings
+t1389096661
+s474
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/ms.lproj/SSToolkit.strings
+t1389096661
+s531
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/nl.lproj/SSToolkit.strings
+t1389096661
+s522
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/orange-star.png
+t1389096662
+s3704
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/orange-star@2x.png
+t1389096662
+s5221
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/pt.lproj/SSToolkit.strings
+t1389096661
+s496
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/pt_PT.lproj/SSToolkit.strings
+t1389096661
+s501
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/reload-button-mini.png
+t1389096663
+s262
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/reload-button-mini@2x.png
+t1389096663
+s935
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/reload-button.png
+t1389096663
+s610
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/reload-button@2x.png
+t1389096663
+s1223
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/ru.lproj/SSToolkit.strings
+t1389096661
+s608
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/safari-button-mini.png
+t1389096663
+s278
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/safari-button-mini@2x.png
+t1389096663
+s1167
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/safari-button.png
+t1389096663
+s705
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/safari-button@2x.png
+t1389096663
+s1371
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/stop-button-mini.png
+t1389096663
+s275
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/stop-button-mini@2x.png
+t1389096663
+s394
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/stop-button.png
+t1389096663
+s330
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/stop-button@2x.png
+t1389096663
+s456
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/sv.lproj/SSToolkit.strings
+t1389096661
+s597
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/zh_Hans.lproj/SSToolkit.strings
+t1389096661
+s515
+
+N/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/zh_Hant.lproj/SSToolkit.strings
+t1389096661
+s504
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesda72aa54267cb841^9085d854267cb841^---0#1#1#--18"Check dependencies36"B6C93A7D-1EF6-4CE6-AC78-618DB1CCC1D5-
+
+CCopyPNGFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldBackground.png Resources/Images/SSAddressBarTextFieldBackground.png
+s410789462.191574
+e410789462.237268
+r1
+xCopyPNGFile
+x/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldBackground.png
+xResources/Images/SSAddressBarTextFieldBackground.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection126"CopyPNGFile SSToolkitResources.bundle/SSAddressBarTextFieldBackground.png Resources/Images/SSAddressBarTextFieldBackground.png126"CopyPNGFile SSToolkitResources.bundle/SSAddressBarTextFieldBackground.png Resources/Images/SSAddressBarTextFieldBackground.png211e3156267cb841^9acc3c56267cb841^---0#0#1#-19%DVTDocumentLocation2@143"file:///Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldBackground.png0000000000000000^847"CopyPNGFile SSToolkitResources.bundle/SSAddressBarTextFieldBackground.png Resources/Images/SSAddressBarTextFieldBackground.png    cd /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldBackground.png /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldBackground.png36"60659693-2670-4B21-816E-E8E250042CA3-
+b5714BF01-756A-4D67-A3DC-D72952588BBF
+
+CCopyPNGFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldBackground@2x.png Resources/Images/SSAddressBarTextFieldBackground@2x.png
+s410789462.198031
+e410789462.243685
+r1
+xCopyPNGFile
+x/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldBackground@2x.png
+xResources/Images/SSAddressBarTextFieldBackground@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection132"CopyPNGFile SSToolkitResources.bundle/SSAddressBarTextFieldBackground@2x.png Resources/Images/SSAddressBarTextFieldBackground@2x.png132"CopyPNGFile SSToolkitResources.bundle/SSAddressBarTextFieldBackground@2x.png Resources/Images/SSAddressBarTextFieldBackground@2x.pngdac73256267cb841^bc903e56267cb841^---0#0#1#-19%DVTDocumentLocation2@146"file:///Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldBackground@2x.png0000000000000000^859"CopyPNGFile SSToolkitResources.bundle/SSAddressBarTextFieldBackground@2x.png Resources/Images/SSAddressBarTextFieldBackground@2x.png    cd /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldBackground@2x.png /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldBackground@2x.png36"A0881095-85A0-4263-8BF4-BCEF903B0F97-
+b5714BF01-756A-4D67-A3DC-D72952588BBF
+
+CCopyPNGFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldReload.png Resources/Images/SSAddressBarTextFieldReload.png
+s410789462.238536
+e410789462.281280
+r1
+xCopyPNGFile
+x/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldReload.png
+xResources/Images/SSAddressBarTextFieldReload.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"CopyPNGFile SSToolkitResources.bundle/SSAddressBarTextFieldReload.png Resources/Images/SSAddressBarTextFieldReload.png118"CopyPNGFile SSToolkitResources.bundle/SSAddressBarTextFieldReload.png Resources/Images/SSAddressBarTextFieldReload.png14253d56267cb841^f54b4856267cb841^---0#0#1#-19%DVTDocumentLocation2@139"file:///Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldReload.png0000000000000000^831"CopyPNGFile SSToolkitResources.bundle/SSAddressBarTextFieldReload.png Resources/Images/SSAddressBarTextFieldReload.png    cd /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldReload.png /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldReload.png36"C8C6EA48-128E-4593-B5DF-34EEF010EA1D-
+b5714BF01-756A-4D67-A3DC-D72952588BBF
+
+CCopyPNGFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldReload@2x.png Resources/Images/SSAddressBarTextFieldReload@2x.png
+s410789462.243968
+e410789462.307970
+r1
+xCopyPNGFile
+x/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldReload@2x.png
+xResources/Images/SSAddressBarTextFieldReload@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection124"CopyPNGFile SSToolkitResources.bundle/SSAddressBarTextFieldReload@2x.png Resources/Images/SSAddressBarTextFieldReload@2x.png124"CopyPNGFile SSToolkitResources.bundle/SSAddressBarTextFieldReload@2x.png Resources/Images/SSAddressBarTextFieldReload@2x.png9c883e56267cb841^e3ff4e56267cb841^---0#0#1#-19%DVTDocumentLocation2@142"file:///Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldReload@2x.png0000000000000000^843"CopyPNGFile SSToolkitResources.bundle/SSAddressBarTextFieldReload@2x.png Resources/Images/SSAddressBarTextFieldReload@2x.png    cd /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldReload@2x.png /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldReload@2x.png36"7AAD461B-9030-4107-8BEE-240153D244D0-
+b5714BF01-756A-4D67-A3DC-D72952588BBF
+
+CCopyPNGFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldStop.png Resources/Images/SSAddressBarTextFieldStop.png
+s410789462.281554
+e410789462.338619
+r1
+xCopyPNGFile
+x/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldStop.png
+xResources/Images/SSAddressBarTextFieldStop.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"CopyPNGFile SSToolkitResources.bundle/SSAddressBarTextFieldStop.png Resources/Images/SSAddressBarTextFieldStop.png114"CopyPNGFile SSToolkitResources.bundle/SSAddressBarTextFieldStop.png Resources/Images/SSAddressBarTextFieldStop.png4e284856267cb841^cff45656267cb841^---0#0#1#-19%DVTDocumentLocation2@137"file:///Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldStop.png0000000000000000^823"CopyPNGFile SSToolkitResources.bundle/SSAddressBarTextFieldStop.png Resources/Images/SSAddressBarTextFieldStop.png    cd /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldStop.png /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldStop.png36"EDA08552-68B5-43A5-A5E0-FF4473D44A79-
+b5714BF01-756A-4D67-A3DC-D72952588BBF
+
+CCopyPNGFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldStop@2x.png Resources/Images/SSAddressBarTextFieldStop@2x.png
+s410789462.308152
+e410789462.367316
+r1
+xCopyPNGFile
+x/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldStop@2x.png
+xResources/Images/SSAddressBarTextFieldStop@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection120"CopyPNGFile SSToolkitResources.bundle/SSAddressBarTextFieldStop@2x.png Resources/Images/SSAddressBarTextFieldStop@2x.png120"CopyPNGFile SSToolkitResources.bundle/SSAddressBarTextFieldStop@2x.png Resources/Images/SSAddressBarTextFieldStop@2x.png5ef74e56267cb841^be335e56267cb841^---0#0#1#-19%DVTDocumentLocation2@140"file:///Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldStop@2x.png0000000000000000^835"CopyPNGFile SSToolkitResources.bundle/SSAddressBarTextFieldStop@2x.png Resources/Images/SSAddressBarTextFieldStop@2x.png    cd /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldStop@2x.png /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldStop@2x.png36"88629DA0-1765-4ED9-BE5E-2F4BDE775178-
+b5714BF01-756A-4D67-A3DC-D72952588BBF
+
+CCopyPNGFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButton.png Resources/Images/UISegmentBarButton.png
+s410789462.339091
+e410789462.381549
+r1
+xCopyPNGFile
+x/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButton.png
+xResources/Images/UISegmentBarButton.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"CopyPNGFile SSToolkitResources.bundle/UISegmentBarButton.png Resources/Images/UISegmentBarButton.png100"CopyPNGFile SSToolkitResources.bundle/UISegmentBarButton.png Resources/Images/UISegmentBarButton.pngefe15656267cb841^60c96156267cb841^---0#0#1#-19%DVTDocumentLocation2@130"file:///Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/UISegmentBarButton.png0000000000000000^795"CopyPNGFile SSToolkitResources.bundle/UISegmentBarButton.png Resources/Images/UISegmentBarButton.png    cd /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/UISegmentBarButton.png /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButton.png36"601F8826-3E64-4CE2-92C2-1217A1848CD5-
+b5714BF01-756A-4D67-A3DC-D72952588BBF
+
+CCopyPNGFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButton@2x.png Resources/Images/UISegmentBarButton@2x.png
+s410789462.367553
+e410789462.487700
+r1
+xCopyPNGFile
+x/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButton@2x.png
+xResources/Images/UISegmentBarButton@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"CopyPNGFile SSToolkitResources.bundle/UISegmentBarButton@2x.png Resources/Images/UISegmentBarButton@2x.png106"CopyPNGFile SSToolkitResources.bundle/UISegmentBarButton@2x.png Resources/Images/UISegmentBarButton@2x.pngf52a5e56267cb841^36067d56267cb841^---0#0#1#-19%DVTDocumentLocation2@133"file:///Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/UISegmentBarButton@2x.png0000000000000000^807"CopyPNGFile SSToolkitResources.bundle/UISegmentBarButton@2x.png Resources/Images/UISegmentBarButton@2x.png    cd /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/UISegmentBarButton@2x.png /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButton@2x.png36"DC61F045-DEA4-4909-9F46-31AD24A73792-
+b5714BF01-756A-4D67-A3DC-D72952588BBF
+
+CCopyPNGFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButtonHighlighted.png Resources/Images/UISegmentBarButtonHighlighted.png
+s410789462.381807
+e410789462.493353
+r1
+xCopyPNGFile
+x/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButtonHighlighted.png
+xResources/Images/UISegmentBarButtonHighlighted.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection122"CopyPNGFile SSToolkitResources.bundle/UISegmentBarButtonHighlighted.png Resources/Images/UISegmentBarButtonHighlighted.png122"CopyPNGFile SSToolkitResources.bundle/UISegmentBarButtonHighlighted.png Resources/Images/UISegmentBarButtonHighlighted.pngdcd76156267cb841^42767e56267cb841^---0#0#1#-19%DVTDocumentLocation2@141"file:///Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/UISegmentBarButtonHighlighted.png0000000000000000^839"CopyPNGFile SSToolkitResources.bundle/UISegmentBarButtonHighlighted.png Resources/Images/UISegmentBarButtonHighlighted.png    cd /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/UISegmentBarButtonHighlighted.png /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButtonHighlighted.png36"9FEAE534-8B18-4D06-911C-1106EE6EB76D-
+b5714BF01-756A-4D67-A3DC-D72952588BBF
+
+CCopyPNGFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButtonHighlighted@2x.png Resources/Images/UISegmentBarButtonHighlighted@2x.png
+s410789462.487943
+e410789462.532082
+r1
+xCopyPNGFile
+x/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButtonHighlighted@2x.png
+xResources/Images/UISegmentBarButtonHighlighted@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection128"CopyPNGFile SSToolkitResources.bundle/UISegmentBarButtonHighlighted@2x.png Resources/Images/UISegmentBarButtonHighlighted@2x.png128"CopyPNGFile SSToolkitResources.bundle/UISegmentBarButtonHighlighted@2x.png Resources/Images/UISegmentBarButtonHighlighted@2x.png8ffd7c56267cb841^fe648856267cb841^---0#0#1#-19%DVTDocumentLocation2@144"file:///Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/UISegmentBarButtonHighlighted@2x.png0000000000000000^851"CopyPNGFile SSToolkitResources.bundle/UISegmentBarButtonHighlighted@2x.png Resources/Images/UISegmentBarButtonHighlighted@2x.png    cd /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/UISegmentBarButtonHighlighted@2x.png /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButtonHighlighted@2x.png36"E1856429-D542-4B72-BF20-5C2D80E9A4C8-
+b5714BF01-756A-4D67-A3DC-D72952588BBF
+
+CCopyPNGFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDivider.png Resources/Images/UISegmentBarDivider.png
+s410789462.493565
+e410789462.540736
+r1
+xCopyPNGFile
+x/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDivider.png
+xResources/Images/UISegmentBarDivider.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"CopyPNGFile SSToolkitResources.bundle/UISegmentBarDivider.png Resources/Images/UISegmentBarDivider.png102"CopyPNGFile SSToolkitResources.bundle/UISegmentBarDivider.png Resources/Images/UISegmentBarDivider.png2e927e56267cb841^44a48a56267cb841^---0#0#1#-19%DVTDocumentLocation2@131"file:///Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/UISegmentBarDivider.png0000000000000000^799"CopyPNGFile SSToolkitResources.bundle/UISegmentBarDivider.png Resources/Images/UISegmentBarDivider.png    cd /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/UISegmentBarDivider.png /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDivider.png36"127174F0-75FA-4330-9AC1-931518599AD9-
+b5714BF01-756A-4D67-A3DC-D72952588BBF
+
+CCopyPNGFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDivider@2x.png Resources/Images/UISegmentBarDivider@2x.png
+s410789462.532340
+e410789462.609057
+r1
+xCopyPNGFile
+x/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDivider@2x.png
+xResources/Images/UISegmentBarDivider@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"CopyPNGFile SSToolkitResources.bundle/UISegmentBarDivider@2x.png Resources/Images/UISegmentBarDivider@2x.png108"CopyPNGFile SSToolkitResources.bundle/UISegmentBarDivider@2x.png Resources/Images/UISegmentBarDivider@2x.png255c8856267cb841^40f99b56267cb841^---0#0#1#-19%DVTDocumentLocation2@134"file:///Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/UISegmentBarDivider@2x.png0000000000000000^811"CopyPNGFile SSToolkitResources.bundle/UISegmentBarDivider@2x.png Resources/Images/UISegmentBarDivider@2x.png    cd /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/UISegmentBarDivider@2x.png /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDivider@2x.png36"58710BF2-5718-48E9-B248-8BB61783C3F2-
+b5714BF01-756A-4D67-A3DC-D72952588BBF
+
+CCopyPNGFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDividerHighlighted.png Resources/Images/UISegmentBarDividerHighlighted.png
+s410789462.540980
+e410789462.607933
+r1
+xCopyPNGFile
+x/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDividerHighlighted.png
+xResources/Images/UISegmentBarDividerHighlighted.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection124"CopyPNGFile SSToolkitResources.bundle/UISegmentBarDividerHighlighted.png Resources/Images/UISegmentBarDividerHighlighted.png124"CopyPNGFile SSToolkitResources.bundle/UISegmentBarDividerHighlighted.png Resources/Images/UISegmentBarDividerHighlighted.png47908a56267cb841^71ac9b56267cb841^---0#0#1#-19%DVTDocumentLocation2@142"file:///Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/UISegmentBarDividerHighlighted.png0000000000000000^843"CopyPNGFile SSToolkitResources.bundle/UISegmentBarDividerHighlighted.png Resources/Images/UISegmentBarDividerHighlighted.png    cd /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/UISegmentBarDividerHighlighted.png /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDividerHighlighted.png36"CA176C1E-D834-41E7-9B43-D80104D95AAD-
+b5714BF01-756A-4D67-A3DC-D72952588BBF
+
+CCopyPNGFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDividerHighlighted@2x.png Resources/Images/UISegmentBarDividerHighlighted@2x.png
+s410789462.608343
+e410789462.719010
+r1
+xCopyPNGFile
+x/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDividerHighlighted@2x.png
+xResources/Images/UISegmentBarDividerHighlighted@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection130"CopyPNGFile SSToolkitResources.bundle/UISegmentBarDividerHighlighted@2x.png Resources/Images/UISegmentBarDividerHighlighted@2x.png130"CopyPNGFile SSToolkitResources.bundle/UISegmentBarDividerHighlighted@2x.png Resources/Images/UISegmentBarDividerHighlighted@2x.pngf6cf9b56267cb841^1635b856267cb841^---0#0#1#-19%DVTDocumentLocation2@145"file:///Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/UISegmentBarDividerHighlighted@2x.png0000000000000000^855"CopyPNGFile SSToolkitResources.bundle/UISegmentBarDividerHighlighted@2x.png Resources/Images/UISegmentBarDividerHighlighted@2x.png    cd /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/UISegmentBarDividerHighlighted@2x.png /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDividerHighlighted@2x.png36"880C3FFC-C6E3-4611-9726-28FFA99D6F4F-
+b5714BF01-756A-4D67-A3DC-D72952588BBF
+
+CCopyPNGFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/action-button-mini.png Resources/Images/action-button-mini.png
+s410789462.677852
+e410789462.718305
+r1
+xCopyPNGFile
+x/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/action-button-mini.png
+xResources/Images/action-button-mini.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"CopyPNGFile SSToolkitResources.bundle/action-button-mini.png Resources/Images/action-button-mini.png100"CopyPNGFile SSToolkitResources.bundle/action-button-mini.png Resources/Images/action-button-mini.pngb69ead56267cb841^19e3b756267cb841^---0#0#1#-19%DVTDocumentLocation2@130"file:///Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/action-button-mini.png0000000000000000^795"CopyPNGFile SSToolkitResources.bundle/action-button-mini.png Resources/Images/action-button-mini.png    cd /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/action-button-mini.png /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/action-button-mini.png36"5CFE017A-9BD7-499F-8794-A88AEA0BC831-
+b5714BF01-756A-4D67-A3DC-D72952588BBF
+
+CCopyPNGFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/action-button-mini@2x.png Resources/Images/action-button-mini@2x.png
+s410789462.718571
+e410789462.757529
+r1
+xCopyPNGFile
+x/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/action-button-mini@2x.png
+xResources/Images/action-button-mini@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"CopyPNGFile SSToolkitResources.bundle/action-button-mini@2x.png Resources/Images/action-button-mini@2x.png106"CopyPNGFile SSToolkitResources.bundle/action-button-mini@2x.png Resources/Images/action-button-mini@2x.png390eb856267cb841^fcdfc156267cb841^---0#0#1#-19%DVTDocumentLocation2@133"file:///Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/action-button-mini@2x.png0000000000000000^807"CopyPNGFile SSToolkitResources.bundle/action-button-mini@2x.png Resources/Images/action-button-mini@2x.png    cd /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/action-button-mini@2x.png /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/action-button-mini@2x.png36"7C64D2F8-F1D8-4BA7-91F3-904017926E3F-
+b5714BF01-756A-4D67-A3DC-D72952588BBF
+
+CCopyPNGFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/action-button.png Resources/Images/action-button.png
+s410789462.721037
+e410789462.756617
+r1
+xCopyPNGFile
+x/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/action-button.png
+xResources/Images/action-button.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"CopyPNGFile SSToolkitResources.bundle/action-button.png Resources/Images/action-button.png90"CopyPNGFile SSToolkitResources.bundle/action-button.png Resources/Images/action-button.pngcea9b856267cb841^4ab7c156267cb841^---0#0#1#-19%DVTDocumentLocation2@125"file:///Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/action-button.png0000000000000000^775"CopyPNGFile SSToolkitResources.bundle/action-button.png Resources/Images/action-button.png    cd /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/action-button.png /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/action-button.png36"EA003180-CF62-4A70-AE9C-10ADA44C984B-
+b5714BF01-756A-4D67-A3DC-D72952588BBF
+
+CCopyPNGFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/action-button@2x.png Resources/Images/action-button@2x.png
+s410789462.757505
+e410789462.845306
+r1
+xCopyPNGFile
+x/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/action-button@2x.png
+xResources/Images/action-button@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"CopyPNGFile SSToolkitResources.bundle/action-button@2x.png Resources/Images/action-button@2x.png96"CopyPNGFile SSToolkitResources.bundle/action-button@2x.png Resources/Images/action-button@2x.pngcc62c256267cb841^fd68d856267cb841^---0#0#1#-19%DVTDocumentLocation2@128"file:///Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/action-button@2x.png0000000000000000^787"CopyPNGFile SSToolkitResources.bundle/action-button@2x.png Resources/Images/action-button@2x.png    cd /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/action-button@2x.png /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/action-button@2x.png36"B97F964B-DEF4-46EA-A667-6393A26662F9-
+b5714BF01-756A-4D67-A3DC-D72952588BBF
+
+CCopyPNGFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/back-button-mini.png Resources/Images/back-button-mini.png
+s410789462.759524
+e410789462.844513
+r1
+xCopyPNGFile
+x/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/back-button-mini.png
+xResources/Images/back-button-mini.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"CopyPNGFile SSToolkitResources.bundle/back-button-mini.png Resources/Images/back-button-mini.png96"CopyPNGFile SSToolkitResources.bundle/back-button-mini.png Resources/Images/back-button-mini.png6286c256267cb841^4e43d856267cb841^---0#0#1#-19%DVTDocumentLocation2@128"file:///Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/back-button-mini.png0000000000000000^787"CopyPNGFile SSToolkitResources.bundle/back-button-mini.png Resources/Images/back-button-mini.png    cd /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/back-button-mini.png /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/back-button-mini.png36"B3C99415-4E21-401C-968A-40327C10417E-
+b5714BF01-756A-4D67-A3DC-D72952588BBF
+
+CCopyPNGFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/back-button-mini@2x.png Resources/Images/back-button-mini@2x.png
+s410789462.844768
+e410789462.890332
+r1
+xCopyPNGFile
+x/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/back-button-mini@2x.png
+xResources/Images/back-button-mini@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"CopyPNGFile SSToolkitResources.bundle/back-button-mini@2x.png Resources/Images/back-button-mini@2x.png102"CopyPNGFile SSToolkitResources.bundle/back-button-mini@2x.png Resources/Images/back-button-mini@2x.png8e5bd856267cb841^6803e456267cb841^---0#0#1#-19%DVTDocumentLocation2@131"file:///Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/back-button-mini@2x.png0000000000000000^799"CopyPNGFile SSToolkitResources.bundle/back-button-mini@2x.png Resources/Images/back-button-mini@2x.png    cd /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/back-button-mini@2x.png /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/back-button-mini@2x.png36"7D87002E-96D8-4B88-9279-D7B16573D95F-
+b5714BF01-756A-4D67-A3DC-D72952588BBF
+
+CCopyPNGFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/back-button.png Resources/Images/back-button.png
+s410789462.847810
+e410789462.901073
+r1
+xCopyPNGFile
+x/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/back-button.png
+xResources/Images/back-button.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"CopyPNGFile SSToolkitResources.bundle/back-button.png Resources/Images/back-button.png86"CopyPNGFile SSToolkitResources.bundle/back-button.png Resources/Images/back-button.png9f20d956267cb841^badae656267cb841^---0#0#1#-19%DVTDocumentLocation2@123"file:///Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/back-button.png0000000000000000^767"CopyPNGFile SSToolkitResources.bundle/back-button.png Resources/Images/back-button.png    cd /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/back-button.png /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/back-button.png36"5FBBE280-0B52-43C0-BBDF-E09A121EE96A-
+b5714BF01-756A-4D67-A3DC-D72952588BBF
+
+CCopyPNGFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/back-button@2x.png Resources/Images/back-button@2x.png
+s410789462.890578
+e410789462.940450
+r1
+xCopyPNGFile
+x/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/back-button@2x.png
+xResources/Images/back-button@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"CopyPNGFile SSToolkitResources.bundle/back-button@2x.png Resources/Images/back-button@2x.png92"CopyPNGFile SSToolkitResources.bundle/back-button@2x.png Resources/Images/back-button@2x.png2c11e456267cb841^66dcf056267cb841^---0#0#1#-19%DVTDocumentLocation2@126"file:///Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/back-button@2x.png0000000000000000^779"CopyPNGFile SSToolkitResources.bundle/back-button@2x.png Resources/Images/back-button@2x.png    cd /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/back-button@2x.png /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/back-button@2x.png36"34279F99-C00B-4F44-81EA-763C6C690996-
+b5714BF01-756A-4D67-A3DC-D72952588BBF
+
+CCopyPNGFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/forward-button-mini.png Resources/Images/forward-button-mini.png
+s410789462.901328
+e410789462.941192
+r1
+xCopyPNGFile
+x/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/forward-button-mini.png
+xResources/Images/forward-button-mini.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"CopyPNGFile SSToolkitResources.bundle/forward-button-mini.png Resources/Images/forward-button-mini.png102"CopyPNGFile SSToolkitResources.bundle/forward-button-mini.png Resources/Images/forward-button-mini.png5bd1e656267cb841^3df1f056267cb841^---0#0#1#-19%DVTDocumentLocation2@131"file:///Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/forward-button-mini.png0000000000000000^799"CopyPNGFile SSToolkitResources.bundle/forward-button-mini.png Resources/Images/forward-button-mini.png    cd /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/forward-button-mini.png /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/forward-button-mini.png36"4634A6AA-332B-4952-B3CF-870F12704F48-
+b5714BF01-756A-4D67-A3DC-D72952588BBF
+
+CCopyPNGFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/forward-button-mini@2x.png Resources/Images/forward-button-mini@2x.png
+s410789462.940703
+e410789462.979813
+r1
+xCopyPNGFile
+x/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/forward-button-mini@2x.png
+xResources/Images/forward-button-mini@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"CopyPNGFile SSToolkitResources.bundle/forward-button-mini@2x.png Resources/Images/forward-button-mini@2x.png108"CopyPNGFile SSToolkitResources.bundle/forward-button-mini@2x.png Resources/Images/forward-button-mini@2x.pnga242f156267cb841^ab08fb56267cb841^---0#0#1#-19%DVTDocumentLocation2@134"file:///Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/forward-button-mini@2x.png0000000000000000^811"CopyPNGFile SSToolkitResources.bundle/forward-button-mini@2x.png Resources/Images/forward-button-mini@2x.png    cd /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/forward-button-mini@2x.png /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/forward-button-mini@2x.png36"0E21F658-01AB-45DA-92E7-9F4AB9311FBD-
+b5714BF01-756A-4D67-A3DC-D72952588BBF
+
+CCopyPNGFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/forward-button.png Resources/Images/forward-button.png
+s410789462.943377
+e410789462.981549
+r1
+xCopyPNGFile
+x/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/forward-button.png
+xResources/Images/forward-button.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"CopyPNGFile SSToolkitResources.bundle/forward-button.png Resources/Images/forward-button.png92"CopyPNGFile SSToolkitResources.bundle/forward-button.png Resources/Images/forward-button.pngfb92f156267cb841^936efb56267cb841^---0#0#1#-19%DVTDocumentLocation2@126"file:///Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/forward-button.png0000000000000000^779"CopyPNGFile SSToolkitResources.bundle/forward-button.png Resources/Images/forward-button.png    cd /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/forward-button.png /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/forward-button.png36"1BC8F7EB-4208-4CC9-A3C3-EDC97A788E18-
+b5714BF01-756A-4D67-A3DC-D72952588BBF
+
+CCopyPNGFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/forward-button@2x.png Resources/Images/forward-button@2x.png
+s410789462.980128
+e410789463.025485
+r1
+xCopyPNGFile
+x/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/forward-button@2x.png
+xResources/Images/forward-button@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"CopyPNGFile SSToolkitResources.bundle/forward-button@2x.png Resources/Images/forward-button@2x.png98"CopyPNGFile SSToolkitResources.bundle/forward-button@2x.png Resources/Images/forward-button@2x.pngb9fdfa56267cb841^838a0657267cb841^---0#0#1#-19%DVTDocumentLocation2@129"file:///Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/forward-button@2x.png0000000000000000^791"CopyPNGFile SSToolkitResources.bundle/forward-button@2x.png Resources/Images/forward-button@2x.png    cd /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/forward-button@2x.png /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/forward-button@2x.png36"FB3B82E3-A33D-4ED4-9864-2F3C18587630-
+b5714BF01-756A-4D67-A3DC-D72952588BBF
+
+CCopyPNGFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/gray-star.png Resources/Images/gray-star.png
+s410789462.081511
+e410789462.152778
+r1
+xCopyPNGFile
+x/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/gray-star.png
+xResources/Images/gray-star.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"CopyPNGFile SSToolkitResources.bundle/gray-star.png Resources/Images/gray-star.png82"CopyPNGFile SSToolkitResources.bundle/gray-star.png Resources/Images/gray-star.pngdd0a1556267cb841^60212756267cb841^---0#0#1#-19%DVTDocumentLocation2@121"file:///Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/gray-star.png0000000000000000^759"CopyPNGFile SSToolkitResources.bundle/gray-star.png Resources/Images/gray-star.png    cd /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/gray-star.png /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/gray-star.png36"BCFDDCF8-BF02-471F-AB91-F03017FB38E8-
+b5714BF01-756A-4D67-A3DC-D72952588BBF
+
+CCopyPNGFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/gray-star@2x.png Resources/Images/gray-star@2x.png
+s410789462.097575
+e410789462.156995
+r1
+xCopyPNGFile
+x/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/gray-star@2x.png
+xResources/Images/gray-star@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"CopyPNGFile SSToolkitResources.bundle/gray-star@2x.png Resources/Images/gray-star@2x.png88"CopyPNGFile SSToolkitResources.bundle/gray-star@2x.png Resources/Images/gray-star@2x.png50171956267cb841^aa642856267cb841^---0#0#1#-19%DVTDocumentLocation2@124"file:///Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/gray-star@2x.png0000000000000000^771"CopyPNGFile SSToolkitResources.bundle/gray-star@2x.png Resources/Images/gray-star@2x.png    cd /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/gray-star@2x.png /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/gray-star@2x.png36"8796E11A-77C5-485F-8C1F-A8007A0DF440-
+b5714BF01-756A-4D67-A3DC-D72952588BBF
+
+CCopyPNGFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/hud-check.png Resources/Images/hud-check.png
+s410789461.483262
+e410789462.031088
+r1
+xCopyPNGFile
+x/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/hud-check.png
+xResources/Images/hud-check.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"CopyPNGFile SSToolkitResources.bundle/hud-check.png Resources/Images/hud-check.png82"CopyPNGFile SSToolkitResources.bundle/hud-check.png Resources/Images/hud-check.png30d67b55267cb841^84f50756267cb841^---0#0#1#-19%DVTDocumentLocation2@121"file:///Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/hud-check.png0000000000000000^759"CopyPNGFile SSToolkitResources.bundle/hud-check.png Resources/Images/hud-check.png    cd /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/hud-check.png /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/hud-check.png36"B1118FD9-0890-4541-9C44-52F44763F2A3-
+b5714BF01-756A-4D67-A3DC-D72952588BBF
+
+CCopyPNGFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/hud-check@2x.png Resources/Images/hud-check@2x.png
+s410789461.507727
+e410789462.033644
+r1
+xCopyPNGFile
+x/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/hud-check@2x.png
+xResources/Images/hud-check@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"CopyPNGFile SSToolkitResources.bundle/hud-check@2x.png Resources/Images/hud-check@2x.png88"CopyPNGFile SSToolkitResources.bundle/hud-check@2x.png Resources/Images/hud-check@2x.pngb60e8255267cb841^14d00856267cb841^---0#0#1#-19%DVTDocumentLocation2@124"file:///Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/hud-check@2x.png0000000000000000^771"CopyPNGFile SSToolkitResources.bundle/hud-check@2x.png Resources/Images/hud-check@2x.png    cd /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/hud-check@2x.png /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/hud-check@2x.png36"7DB0F81D-443D-45FB-B733-7BB91DA5B9CC-
+b5714BF01-756A-4D67-A3DC-D72952588BBF
+
+CCopyPNGFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/hud-x.png Resources/Images/hud-x.png
+s410789462.031835
+e410789462.081238
+r1
+xCopyPNGFile
+x/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/hud-x.png
+xResources/Images/hud-x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"CopyPNGFile SSToolkitResources.bundle/hud-x.png Resources/Images/hud-x.png74"CopyPNGFile SSToolkitResources.bundle/hud-x.png Resources/Images/hud-x.pngb83e0856267cb841^e0db1456267cb841^---0#0#1#-19%DVTDocumentLocation2@117"file:///Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/hud-x.png0000000000000000^743"CopyPNGFile SSToolkitResources.bundle/hud-x.png Resources/Images/hud-x.png    cd /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/hud-x.png /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/hud-x.png36"5CA31940-9BF2-42BC-B2D2-166908C57729-
+b5714BF01-756A-4D67-A3DC-D72952588BBF
+
+CCopyPNGFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/hud-x@2x.png Resources/Images/hud-x@2x.png
+s410789462.033910
+e410789462.081861
+r1
+xCopyPNGFile
+x/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/hud-x@2x.png
+xResources/Images/hud-x@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"CopyPNGFile SSToolkitResources.bundle/hud-x@2x.png Resources/Images/hud-x@2x.png80"CopyPNGFile SSToolkitResources.bundle/hud-x@2x.png Resources/Images/hud-x@2x.png2ec60856267cb841^3bfd1456267cb841^---0#0#1#-19%DVTDocumentLocation2@120"file:///Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/hud-x@2x.png0000000000000000^755"CopyPNGFile SSToolkitResources.bundle/hud-x@2x.png Resources/Images/hud-x@2x.png    cd /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/hud-x@2x.png /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/hud-x@2x.png36"DFB2EB0A-2AEF-4E3D-8486-63DAA97F0B35-
+b5714BF01-756A-4D67-A3DC-D72952588BBF
+
+CCopyPNGFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/orange-star.png Resources/Images/orange-star.png
+s410789462.153596
+e410789462.191296
+r1
+xCopyPNGFile
+x/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/orange-star.png
+xResources/Images/orange-star.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"CopyPNGFile SSToolkitResources.bundle/orange-star.png Resources/Images/orange-star.png86"CopyPNGFile SSToolkitResources.bundle/orange-star.png Resources/Images/orange-star.png88652756267cb841^25023156267cb841^---0#0#1#-19%DVTDocumentLocation2@123"file:///Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/orange-star.png0000000000000000^767"CopyPNGFile SSToolkitResources.bundle/orange-star.png Resources/Images/orange-star.png    cd /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/orange-star.png /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/orange-star.png36"549050BB-0F39-4459-A235-2979D6E3209A-
+b5714BF01-756A-4D67-A3DC-D72952588BBF
+
+CCopyPNGFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/orange-star@2x.png Resources/Images/orange-star@2x.png
+s410789462.157233
+e410789462.197777
+r1
+xCopyPNGFile
+x/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/orange-star@2x.png
+xResources/Images/orange-star@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"CopyPNGFile SSToolkitResources.bundle/orange-star@2x.png Resources/Images/orange-star@2x.png92"CopyPNGFile SSToolkitResources.bundle/orange-star@2x.png Resources/Images/orange-star@2x.png1a532856267cb841^2deb3256267cb841^---0#0#1#-19%DVTDocumentLocation2@126"file:///Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/orange-star@2x.png0000000000000000^779"CopyPNGFile SSToolkitResources.bundle/orange-star@2x.png Resources/Images/orange-star@2x.png    cd /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/orange-star@2x.png /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/orange-star@2x.png36"EF51A43F-5F15-4C52-9C9C-E3CA6098367D-
+b5714BF01-756A-4D67-A3DC-D72952588BBF
+
+CCopyPNGFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/reload-button-mini.png Resources/Images/reload-button-mini.png
+s410789462.982949
+e410789463.044401
+r1
+xCopyPNGFile
+x/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/reload-button-mini.png
+xResources/Images/reload-button-mini.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"CopyPNGFile SSToolkitResources.bundle/reload-button-mini.png Resources/Images/reload-button-mini.png100"CopyPNGFile SSToolkitResources.bundle/reload-button-mini.png Resources/Images/reload-button-mini.pngedb6fb56267cb841^1f140c57267cb841^---0#0#1#-19%DVTDocumentLocation2@130"file:///Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/reload-button-mini.png0000000000000000^795"CopyPNGFile SSToolkitResources.bundle/reload-button-mini.png Resources/Images/reload-button-mini.png    cd /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/reload-button-mini.png /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/reload-button-mini.png36"E800DD22-2249-4F5C-AD6E-212DC8B3EAB1-
+b5714BF01-756A-4D67-A3DC-D72952588BBF
+
+CCopyPNGFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/reload-button-mini@2x.png Resources/Images/reload-button-mini@2x.png
+s410789463.025804
+e410789463.085410
+r1
+xCopyPNGFile
+x/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/reload-button-mini@2x.png
+xResources/Images/reload-button-mini@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"CopyPNGFile SSToolkitResources.bundle/reload-button-mini@2x.png Resources/Images/reload-button-mini@2x.png106"CopyPNGFile SSToolkitResources.bundle/reload-button-mini@2x.png Resources/Images/reload-button-mini@2x.png79af0657267cb841^c1e11557267cb841^---0#0#1#-19%DVTDocumentLocation2@133"file:///Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/reload-button-mini@2x.png0000000000000000^807"CopyPNGFile SSToolkitResources.bundle/reload-button-mini@2x.png Resources/Images/reload-button-mini@2x.png    cd /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/reload-button-mini@2x.png /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/reload-button-mini@2x.png36"C1D1487B-170E-4B6E-8D1E-688DE9FADD63-
+b5714BF01-756A-4D67-A3DC-D72952588BBF
+
+CCopyPNGFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/reload-button.png Resources/Images/reload-button.png
+s410789463.044640
+e410789463.087917
+r1
+xCopyPNGFile
+x/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/reload-button.png
+xResources/Images/reload-button.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"CopyPNGFile SSToolkitResources.bundle/reload-button.png Resources/Images/reload-button.png90"CopyPNGFile SSToolkitResources.bundle/reload-button.png Resources/Images/reload-button.pngf7050c57267cb841^58901657267cb841^---0#0#1#-19%DVTDocumentLocation2@125"file:///Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/reload-button.png0000000000000000^775"CopyPNGFile SSToolkitResources.bundle/reload-button.png Resources/Images/reload-button.png    cd /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/reload-button.png /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/reload-button.png36"D1B62835-4566-43D8-9C80-50E83D68EB9D-
+b5714BF01-756A-4D67-A3DC-D72952588BBF
+
+CCopyPNGFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/reload-button@2x.png Resources/Images/reload-button@2x.png
+s410789463.085814
+e410789463.148548
+r1
+xCopyPNGFile
+x/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/reload-button@2x.png
+xResources/Images/reload-button@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"CopyPNGFile SSToolkitResources.bundle/reload-button@2x.png Resources/Images/reload-button@2x.png96"CopyPNGFile SSToolkitResources.bundle/reload-button@2x.png Resources/Images/reload-button@2x.pnge50b1657267cb841^1e352657267cb841^---0#0#1#-19%DVTDocumentLocation2@128"file:///Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/reload-button@2x.png0000000000000000^787"CopyPNGFile SSToolkitResources.bundle/reload-button@2x.png Resources/Images/reload-button@2x.png    cd /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/reload-button@2x.png /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/reload-button@2x.png36"6758DE21-9742-47D5-80B9-8AE5B06330C4-
+b5714BF01-756A-4D67-A3DC-D72952588BBF
+
+CCopyPNGFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/safari-button-mini.png Resources/Images/safari-button-mini.png
+s410789463.088833
+e410789463.133153
+r1
+xCopyPNGFile
+x/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/safari-button-mini.png
+xResources/Images/safari-button-mini.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"CopyPNGFile SSToolkitResources.bundle/safari-button-mini.png Resources/Images/safari-button-mini.png100"CopyPNGFile SSToolkitResources.bundle/safari-button-mini.png Resources/Images/safari-button-mini.png6cd11657267cb841^2e582257267cb841^---0#0#1#-19%DVTDocumentLocation2@130"file:///Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/safari-button-mini.png0000000000000000^795"CopyPNGFile SSToolkitResources.bundle/safari-button-mini.png Resources/Images/safari-button-mini.png    cd /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/safari-button-mini.png /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/safari-button-mini.png36"97319204-1292-46BB-87C9-DE60044A678F-
+b5714BF01-756A-4D67-A3DC-D72952588BBF
+
+CCopyPNGFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/safari-button-mini@2x.png Resources/Images/safari-button-mini@2x.png
+s410789463.133401
+e410789463.174797
+r1
+xCopyPNGFile
+x/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/safari-button-mini@2x.png
+xResources/Images/safari-button-mini@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"CopyPNGFile SSToolkitResources.bundle/safari-button-mini@2x.png Resources/Images/safari-button-mini@2x.png106"CopyPNGFile SSToolkitResources.bundle/safari-button-mini@2x.png Resources/Images/safari-button-mini@2x.png193a2257267cb841^1c982c57267cb841^---0#0#1#-19%DVTDocumentLocation2@133"file:///Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/safari-button-mini@2x.png0000000000000000^807"CopyPNGFile SSToolkitResources.bundle/safari-button-mini@2x.png Resources/Images/safari-button-mini@2x.png    cd /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/safari-button-mini@2x.png /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/safari-button-mini@2x.png36"CDFAA979-0DE9-457F-9F6B-8DB0055CD851-
+b5714BF01-756A-4D67-A3DC-D72952588BBF
+
+CCopyPNGFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/safari-button.png Resources/Images/safari-button.png
+s410789463.148806
+e410789463.205953
+r1
+xCopyPNGFile
+x/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/safari-button.png
+xResources/Images/safari-button.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"CopyPNGFile SSToolkitResources.bundle/safari-button.png Resources/Images/safari-button.png90"CopyPNGFile SSToolkitResources.bundle/safari-button.png Resources/Images/safari-button.pngba2c2657267cb841^c9e43457267cb841^---0#0#1#-19%DVTDocumentLocation2@125"file:///Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/safari-button.png0000000000000000^775"CopyPNGFile SSToolkitResources.bundle/safari-button.png Resources/Images/safari-button.png    cd /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/safari-button.png /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/safari-button.png36"2EBF6AC8-7BED-417F-8751-32A1EB63E367-
+b5714BF01-756A-4D67-A3DC-D72952588BBF
+
+CCopyPNGFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/safari-button@2x.png Resources/Images/safari-button@2x.png
+s410789463.174991
+e410789463.216957
+r1
+xCopyPNGFile
+x/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/safari-button@2x.png
+xResources/Images/safari-button@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"CopyPNGFile SSToolkitResources.bundle/safari-button@2x.png Resources/Images/safari-button@2x.png96"CopyPNGFile SSToolkitResources.bundle/safari-button@2x.png Resources/Images/safari-button@2x.pngaddf2c57267cb841^a48d3757267cb841^---0#0#1#-19%DVTDocumentLocation2@128"file:///Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/safari-button@2x.png0000000000000000^787"CopyPNGFile SSToolkitResources.bundle/safari-button@2x.png Resources/Images/safari-button@2x.png    cd /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/safari-button@2x.png /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/safari-button@2x.png36"648FA611-6DE8-4E99-8318-E3AB7CB6DF35-
+b5714BF01-756A-4D67-A3DC-D72952588BBF
+
+CCopyPNGFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/stop-button-mini.png Resources/Images/stop-button-mini.png
+s410789463.206186
+e410789463.246959
+r1
+xCopyPNGFile
+x/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/stop-button-mini.png
+xResources/Images/stop-button-mini.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"CopyPNGFile SSToolkitResources.bundle/stop-button-mini.png Resources/Images/stop-button-mini.png96"CopyPNGFile SSToolkitResources.bundle/stop-button-mini.png Resources/Images/stop-button-mini.png33dc3457267cb841^1b673f57267cb841^---0#0#1#-19%DVTDocumentLocation2@128"file:///Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/stop-button-mini.png0000000000000000^787"CopyPNGFile SSToolkitResources.bundle/stop-button-mini.png Resources/Images/stop-button-mini.png    cd /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/stop-button-mini.png /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/stop-button-mini.png36"8455C1D5-E8B6-4551-B51D-4EEC9C8FD0E4-
+b5714BF01-756A-4D67-A3DC-D72952588BBF
+
+CCopyPNGFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/stop-button-mini@2x.png Resources/Images/stop-button-mini@2x.png
+s410789463.218814
+e410789463.258842
+r1
+xCopyPNGFile
+x/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/stop-button-mini@2x.png
+xResources/Images/stop-button-mini@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"CopyPNGFile SSToolkitResources.bundle/stop-button-mini@2x.png Resources/Images/stop-button-mini@2x.png102"CopyPNGFile SSToolkitResources.bundle/stop-button-mini@2x.png Resources/Images/stop-button-mini@2x.pnga9173857267cb841^0b604257267cb841^---0#0#1#-19%DVTDocumentLocation2@131"file:///Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/stop-button-mini@2x.png0000000000000000^799"CopyPNGFile SSToolkitResources.bundle/stop-button-mini@2x.png Resources/Images/stop-button-mini@2x.png    cd /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/stop-button-mini@2x.png /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/stop-button-mini@2x.png36"6223FFF1-742D-49A5-874E-EC0027F79188-
+b5714BF01-756A-4D67-A3DC-D72952588BBF
+
+CCopyPNGFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/stop-button.png Resources/Images/stop-button.png
+s410789463.247207
+e410789463.298801
+r1
+xCopyPNGFile
+x/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/stop-button.png
+xResources/Images/stop-button.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"CopyPNGFile SSToolkitResources.bundle/stop-button.png Resources/Images/stop-button.png86"CopyPNGFile SSToolkitResources.bundle/stop-button.png Resources/Images/stop-button.pnga35b3f57267cb841^73804c57267cb841^---0#0#1#-19%DVTDocumentLocation2@123"file:///Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/stop-button.png0000000000000000^767"CopyPNGFile SSToolkitResources.bundle/stop-button.png Resources/Images/stop-button.png    cd /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/stop-button.png /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/stop-button.png36"37400A61-10BC-48E6-AE56-C7A29BA12443-
+b5714BF01-756A-4D67-A3DC-D72952588BBF
+
+CCopyPNGFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/stop-button@2x.png Resources/Images/stop-button@2x.png
+s410789463.259102
+e410789463.308719
+r1
+xCopyPNGFile
+x/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/stop-button@2x.png
+xResources/Images/stop-button@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"CopyPNGFile SSToolkitResources.bundle/stop-button@2x.png Resources/Images/stop-button@2x.png92"CopyPNGFile SSToolkitResources.bundle/stop-button@2x.png Resources/Images/stop-button@2x.png45814257267cb841^1f114f57267cb841^---0#0#1#-19%DVTDocumentLocation2@126"file:///Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/stop-button@2x.png0000000000000000^779"CopyPNGFile SSToolkitResources.bundle/stop-button@2x.png Resources/Images/stop-button@2x.png    cd /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/Images/stop-button@2x.png /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/stop-button@2x.png36"1A6D4524-DBCE-42E7-9C02-5F99E9A953EF-
+b5714BF01-756A-4D67-A3DC-D72952588BBF
+
+CCopyStringsFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/de.lproj/SSToolkit.strings Resources/de.lproj/SSToolkit.strings
+s410789461.030797
+e410789461.042791
+r1
+xCopyStringsFile
+x/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/de.lproj/SSToolkit.strings
+xResources/de.lproj/SSToolkit.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy Resources/de.lproj/SSToolkit.strings105"CopyStringsFile SSToolkitResources.bundle/de.lproj/SSToolkit.strings Resources/de.lproj/SSToolkit.strings49f30755267cb841^0ea40b55267cb841^---0#0#1#-19%DVTDocumentLocation2@127"file:///Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/de.lproj/SSToolkit.strings0000000000000000^681"CopyStringsFile SSToolkitResources.bundle/de.lproj/SSToolkit.strings Resources/de.lproj/SSToolkit.strings    cd /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/de.lproj -- Resources/de.lproj/SSToolkit.strings36"24E1C645-3963-4266-ACFD-6C1FF27E9784-
+b5714BF01-756A-4D67-A3DC-D72952588BBF
+
+CCopyStringsFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/en.lproj/SSToolkit.strings Resources/en.lproj/SSToolkit.strings
+s410789461.029585
+e410789461.044177
+r1
+xCopyStringsFile
+x/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/en.lproj/SSToolkit.strings
+xResources/en.lproj/SSToolkit.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy Resources/en.lproj/SSToolkit.strings105"CopyStringsFile SSToolkitResources.bundle/en.lproj/SSToolkit.strings Resources/en.lproj/SSToolkit.strings3fac0755267cb841^f6b40b55267cb841^---0#0#1#-19%DVTDocumentLocation2@127"file:///Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/en.lproj/SSToolkit.strings0000000000000000^681"CopyStringsFile SSToolkitResources.bundle/en.lproj/SSToolkit.strings Resources/en.lproj/SSToolkit.strings    cd /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/en.lproj -- Resources/en.lproj/SSToolkit.strings36"EAA406CE-96C3-4F14-A263-9681CBE71F87-
+b5714BF01-756A-4D67-A3DC-D72952588BBF
+
+CCopyStringsFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/es.lproj/SSToolkit.strings Resources/es.lproj/SSToolkit.strings
+s410789461.043389
+e410789461.129938
+r1
+xCopyStringsFile
+x/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/es.lproj/SSToolkit.strings
+xResources/es.lproj/SSToolkit.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy Resources/es.lproj/SSToolkit.strings105"CopyStringsFile SSToolkitResources.bundle/es.lproj/SSToolkit.strings Resources/es.lproj/SSToolkit.stringsae2e0b55267cb841^43ad2155267cb841^---0#0#1#-19%DVTDocumentLocation2@127"file:///Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/es.lproj/SSToolkit.strings0000000000000000^681"CopyStringsFile SSToolkitResources.bundle/es.lproj/SSToolkit.strings Resources/es.lproj/SSToolkit.strings    cd /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/es.lproj -- Resources/es.lproj/SSToolkit.strings36"46747BE1-3E1C-4029-AC1C-7A5B043F3001-
+b5714BF01-756A-4D67-A3DC-D72952588BBF
+
+CCopyStringsFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/fr.lproj/SSToolkit.strings Resources/fr.lproj/SSToolkit.strings
+s410789461.044684
+e410789461.128821
+r1
+xCopyStringsFile
+x/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/fr.lproj/SSToolkit.strings
+xResources/fr.lproj/SSToolkit.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy Resources/fr.lproj/SSToolkit.strings105"CopyStringsFile SSToolkitResources.bundle/fr.lproj/SSToolkit.strings Resources/fr.lproj/SSToolkit.strings0f810b55267cb841^f99e2155267cb841^---0#0#1#-19%DVTDocumentLocation2@127"file:///Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/fr.lproj/SSToolkit.strings0000000000000000^681"CopyStringsFile SSToolkitResources.bundle/fr.lproj/SSToolkit.strings Resources/fr.lproj/SSToolkit.strings    cd /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/fr.lproj -- Resources/fr.lproj/SSToolkit.strings36"CC4E1875-A7E9-4E93-8199-23774F079019-
+b5714BF01-756A-4D67-A3DC-D72952588BBF
+
+CCopyStringsFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/id.lproj/SSToolkit.strings Resources/id.lproj/SSToolkit.strings
+s410789461.129050
+e410789461.241373
+r1
+xCopyStringsFile
+x/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/id.lproj/SSToolkit.strings
+xResources/id.lproj/SSToolkit.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy Resources/id.lproj/SSToolkit.strings105"CopyStringsFile SSToolkitResources.bundle/id.lproj/SSToolkit.strings Resources/id.lproj/SSToolkit.stringsb01c2155267cb841^ff203e55267cb841^---0#0#1#-19%DVTDocumentLocation2@127"file:///Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/id.lproj/SSToolkit.strings0000000000000000^681"CopyStringsFile SSToolkitResources.bundle/id.lproj/SSToolkit.strings Resources/id.lproj/SSToolkit.strings    cd /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/id.lproj -- Resources/id.lproj/SSToolkit.strings36"15F37067-80BF-4233-B834-86AC388A3FEF-
+b5714BF01-756A-4D67-A3DC-D72952588BBF
+
+CCopyStringsFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/it.lproj/SSToolkit.strings Resources/it.lproj/SSToolkit.strings
+s410789461.130554
+e410789461.242647
+r1
+xCopyStringsFile
+x/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/it.lproj/SSToolkit.strings
+xResources/it.lproj/SSToolkit.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy Resources/it.lproj/SSToolkit.strings105"CopyStringsFile SSToolkitResources.bundle/it.lproj/SSToolkit.strings Resources/it.lproj/SSToolkit.strings467e2155267cb841^062f3e55267cb841^---0#0#1#-19%DVTDocumentLocation2@127"file:///Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/it.lproj/SSToolkit.strings0000000000000000^681"CopyStringsFile SSToolkitResources.bundle/it.lproj/SSToolkit.strings Resources/it.lproj/SSToolkit.strings    cd /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/it.lproj -- Resources/it.lproj/SSToolkit.strings36"F6F719C4-8181-425D-9EDD-2B504F3FCFC4-
+b5714BF01-756A-4D67-A3DC-D72952588BBF
+
+CCopyStringsFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/ja.lproj/SSToolkit.strings Resources/ja.lproj/SSToolkit.strings
+s410789461.241672
+e410789461.262908
+r1
+xCopyStringsFile
+x/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/ja.lproj/SSToolkit.strings
+xResources/ja.lproj/SSToolkit.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy Resources/ja.lproj/SSToolkit.strings105"CopyStringsFile SSToolkitResources.bundle/ja.lproj/SSToolkit.strings Resources/ja.lproj/SSToolkit.strings9cf93d55267cb841^89784355267cb841^---0#0#1#-19%DVTDocumentLocation2@127"file:///Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/ja.lproj/SSToolkit.strings0000000000000000^681"CopyStringsFile SSToolkitResources.bundle/ja.lproj/SSToolkit.strings Resources/ja.lproj/SSToolkit.strings    cd /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/ja.lproj -- Resources/ja.lproj/SSToolkit.strings36"870BD33A-2DEB-4AA6-BEC3-586EC77507A6-
+b5714BF01-756A-4D67-A3DC-D72952588BBF
+
+CCopyStringsFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/ko.lproj/SSToolkit.strings Resources/ko.lproj/SSToolkit.strings
+s410789461.244861
+e410789461.262616
+r1
+xCopyStringsFile
+x/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/ko.lproj/SSToolkit.strings
+xResources/ko.lproj/SSToolkit.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy Resources/ko.lproj/SSToolkit.strings105"CopyStringsFile SSToolkitResources.bundle/ko.lproj/SSToolkit.strings Resources/ko.lproj/SSToolkit.strings98c33e55267cb841^1c444355267cb841^---0#0#1#-19%DVTDocumentLocation2@127"file:///Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/ko.lproj/SSToolkit.strings0000000000000000^681"CopyStringsFile SSToolkitResources.bundle/ko.lproj/SSToolkit.strings Resources/ko.lproj/SSToolkit.strings    cd /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/ko.lproj -- Resources/ko.lproj/SSToolkit.strings36"A0B968F9-336B-48EE-9ECF-83F1D53221A8-
+b5714BF01-756A-4D67-A3DC-D72952588BBF
+
+CCopyStringsFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/ms.lproj/SSToolkit.strings Resources/ms.lproj/SSToolkit.strings
+s410789461.263071
+e410789461.370012
+r1
+xCopyStringsFile
+x/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/ms.lproj/SSToolkit.strings
+xResources/ms.lproj/SSToolkit.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy Resources/ms.lproj/SSToolkit.strings105"CopyStringsFile SSToolkitResources.bundle/ms.lproj/SSToolkit.strings Resources/ms.lproj/SSToolkit.stringsa56a4355267cb841^cec65e55267cb841^---0#0#1#-19%DVTDocumentLocation2@127"file:///Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/ms.lproj/SSToolkit.strings0000000000000000^681"CopyStringsFile SSToolkitResources.bundle/ms.lproj/SSToolkit.strings Resources/ms.lproj/SSToolkit.strings    cd /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/ms.lproj -- Resources/ms.lproj/SSToolkit.strings36"4B85F24F-7AE3-41E0-BB5A-85F2F4E0AFB7-
+b5714BF01-756A-4D67-A3DC-D72952588BBF
+
+CCopyStringsFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/nl.lproj/SSToolkit.strings Resources/nl.lproj/SSToolkit.strings
+s410789461.274734
+e410789461.373980
+r1
+xCopyStringsFile
+x/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/nl.lproj/SSToolkit.strings
+xResources/nl.lproj/SSToolkit.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy Resources/nl.lproj/SSToolkit.strings105"CopyStringsFile SSToolkitResources.bundle/nl.lproj/SSToolkit.strings Resources/nl.lproj/SSToolkit.stringsd3874655267cb841^0ebf5f55267cb841^---0#0#1#-19%DVTDocumentLocation2@127"file:///Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/nl.lproj/SSToolkit.strings0000000000000000^681"CopyStringsFile SSToolkitResources.bundle/nl.lproj/SSToolkit.strings Resources/nl.lproj/SSToolkit.strings    cd /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/nl.lproj -- Resources/nl.lproj/SSToolkit.strings36"4AAAB5C0-5801-46B0-A779-3ACE78A830B2-
+b5714BF01-756A-4D67-A3DC-D72952588BBF
+
+CCopyStringsFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/pt.lproj/SSToolkit.strings Resources/pt.lproj/SSToolkit.strings
+s410789461.469604
+e410789461.477101
+r1
+xCopyStringsFile
+x/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/pt.lproj/SSToolkit.strings
+xResources/pt.lproj/SSToolkit.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy Resources/pt.lproj/SSToolkit.strings105"CopyStringsFile SSToolkitResources.bundle/pt.lproj/SSToolkit.strings Resources/pt.lproj/SSToolkit.stringsd34f7855267cb841^6fb97a55267cb841^---0#0#1#-19%DVTDocumentLocation2@127"file:///Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/pt.lproj/SSToolkit.strings0000000000000000^681"CopyStringsFile SSToolkitResources.bundle/pt.lproj/SSToolkit.strings Resources/pt.lproj/SSToolkit.strings    cd /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/pt.lproj -- Resources/pt.lproj/SSToolkit.strings36"07D9486D-AE87-491E-874B-811047580944-
+b5714BF01-756A-4D67-A3DC-D72952588BBF
+
+CCopyStringsFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/pt_PT.lproj/SSToolkit.strings Resources/pt_PT.lproj/SSToolkit.strings
+s410789461.370318
+e410789461.472288
+r1
+xCopyStringsFile
+x/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/pt_PT.lproj/SSToolkit.strings
+xResources/pt_PT.lproj/SSToolkit.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Copy Resources/pt_PT.lproj/SSToolkit.strings111"CopyStringsFile SSToolkitResources.bundle/pt_PT.lproj/SSToolkit.strings Resources/pt_PT.lproj/SSToolkit.stringsf7e75e55267cb841^19377955267cb841^---0#0#1#-19%DVTDocumentLocation2@130"file:///Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/pt_PT.lproj/SSToolkit.strings0000000000000000^693"CopyStringsFile SSToolkitResources.bundle/pt_PT.lproj/SSToolkit.strings Resources/pt_PT.lproj/SSToolkit.strings    cd /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/pt_PT.lproj -- Resources/pt_PT.lproj/SSToolkit.strings36"C7DC6BA1-225A-41E3-937F-6AFB4779FBC8-
+b5714BF01-756A-4D67-A3DC-D72952588BBF
+
+CCopyStringsFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/ru.lproj/SSToolkit.strings Resources/ru.lproj/SSToolkit.strings
+s410789461.472551
+e410789461.478409
+r1
+xCopyStringsFile
+x/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/ru.lproj/SSToolkit.strings
+xResources/ru.lproj/SSToolkit.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy Resources/ru.lproj/SSToolkit.strings105"CopyStringsFile SSToolkitResources.bundle/ru.lproj/SSToolkit.strings Resources/ru.lproj/SSToolkit.strings3d0c7955267cb841^1dc87a55267cb841^---0#0#1#-19%DVTDocumentLocation2@127"file:///Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/ru.lproj/SSToolkit.strings0000000000000000^681"CopyStringsFile SSToolkitResources.bundle/ru.lproj/SSToolkit.strings Resources/ru.lproj/SSToolkit.strings    cd /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/ru.lproj -- Resources/ru.lproj/SSToolkit.strings36"36A90A1A-C5D5-415A-AB47-0D0DDADBA7DF-
+b5714BF01-756A-4D67-A3DC-D72952588BBF
+
+CCopyStringsFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/sv.lproj/SSToolkit.strings Resources/sv.lproj/SSToolkit.strings
+s410789461.477325
+e410789461.480939
+r1
+xCopyStringsFile
+x/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/sv.lproj/SSToolkit.strings
+xResources/sv.lproj/SSToolkit.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy Resources/sv.lproj/SSToolkit.strings105"CopyStringsFile SSToolkitResources.bundle/sv.lproj/SSToolkit.strings Resources/sv.lproj/SSToolkit.stringse9447a55267cb841^15557b55267cb841^---0#0#1#-19%DVTDocumentLocation2@127"file:///Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/sv.lproj/SSToolkit.strings0000000000000000^681"CopyStringsFile SSToolkitResources.bundle/sv.lproj/SSToolkit.strings Resources/sv.lproj/SSToolkit.strings    cd /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/sv.lproj -- Resources/sv.lproj/SSToolkit.strings36"3CB8689E-A34D-49EB-BF87-5055198166FF-
+b5714BF01-756A-4D67-A3DC-D72952588BBF
+
+CCopyStringsFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/zh_Hans.lproj/SSToolkit.strings Resources/zh_Hans.lproj/SSToolkit.strings
+s410789461.478591
+e410789461.482015
+r1
+xCopyStringsFile
+x/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/zh_Hans.lproj/SSToolkit.strings
+xResources/zh_Hans.lproj/SSToolkit.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Copy Resources/zh_Hans.lproj/SSToolkit.strings115"CopyStringsFile SSToolkitResources.bundle/zh_Hans.lproj/SSToolkit.strings Resources/zh_Hans.lproj/SSToolkit.strings46947a55267cb841^0b7a7b55267cb841^---0#0#1#-19%DVTDocumentLocation2@132"file:///Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/zh_Hans.lproj/SSToolkit.strings0000000000000000^701"CopyStringsFile SSToolkitResources.bundle/zh_Hans.lproj/SSToolkit.strings Resources/zh_Hans.lproj/SSToolkit.strings    cd /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/zh_Hans.lproj -- Resources/zh_Hans.lproj/SSToolkit.strings36"191FEFFE-D756-42D1-98E3-B871F7519CF8-
+b5714BF01-756A-4D67-A3DC-D72952588BBF
+
+CCopyStringsFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/zh_Hant.lproj/SSToolkit.strings Resources/zh_Hant.lproj/SSToolkit.strings
+s410789461.481111
+e410789461.507524
+r1
+xCopyStringsFile
+x/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/zh_Hant.lproj/SSToolkit.strings
+xResources/zh_Hant.lproj/SSToolkit.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Copy Resources/zh_Hant.lproj/SSToolkit.strings115"CopyStringsFile SSToolkitResources.bundle/zh_Hant.lproj/SSToolkit.strings Resources/zh_Hant.lproj/SSToolkit.strings0c3c7b55267cb841^22388255267cb841^---0#0#1#-19%DVTDocumentLocation2@132"file:///Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/zh_Hant.lproj/SSToolkit.strings0000000000000000^701"CopyStringsFile SSToolkitResources.bundle/zh_Hant.lproj/SSToolkit.strings Resources/zh_Hant.lproj/SSToolkit.strings    cd /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/zh_Hant.lproj -- Resources/zh_Hant.lproj/SSToolkit.strings36"39174755-42D2-47A8-91DF-4BFE434CB841-
+b5714BF01-756A-4D67-A3DC-D72952588BBF
+
+CProcessInfoPlistFile /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/Info.plist /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/SSToolkitResources-Info.plist
+s410789460.952362
+e410789461.015279
+r1
+xProcessInfoPlistFile
+x/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/Info.plist
+x/Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/SSToolkitResources-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection131"Process /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/SSToolkitResources-Info.plist97"ProcessInfoPlistFile SSToolkitResources.bundle/Info.plist Resources/SSToolkitResources-Info.plist38f3f354267cb841^c4ea0355267cb841^---0#0#1#-19%DVTDocumentLocation2@130"file:///Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/SSToolkitResources-Info.plist0000000000000000^756"ProcessInfoPlistFile SSToolkitResources.bundle/Info.plist Resources/SSToolkitResources-Info.plist    cd /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    builtin-infoPlistUtility /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/Resources/SSToolkitResources-Info.plist -expandbuildsettings -format binary -platform iphoneos -o /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/SSToolkitResources.bundle/Info.plist36"780A6F92-44A5-422D-AC1D-49F4E03585A1-
+b5714BF01-756A-4D67-A3DC-D72952588BBF
+
+CTouch /Users/Akshat/AllProjects/iOS/iOS-Practice-Projects/CocoaPodsExample/Pods/SSToolkit/./SSToolkitResources.bundle
+r0
+
