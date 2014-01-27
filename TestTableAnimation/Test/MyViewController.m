@@ -193,12 +193,12 @@
         anim.toValue = [NSNumber numberWithFloat:0.75];
         anim.duration = 0.75;
         
-//        dispatch_async(dispatch_get_global_queue( DISPATCH_QUEUE_PRIORITY_DEFAULT, 0), ^{
+        dispatch_async(dispatch_get_global_queue( DISPATCH_QUEUE_PRIORITY_BACKGROUND, 0), ^{
             [cell.layer addAnimation:anim forKey:@"shadowOpacity"];
-//            sleep(0.75);
-//        });
+//
+        });
         cell.layer.shadowOpacity = 0.75;
-        
+        sleep(1.75);
         
         [myTableView moveRowAtIndexPath:indexPath toIndexPath:index];
         
