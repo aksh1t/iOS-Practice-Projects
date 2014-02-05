@@ -14,8 +14,6 @@ This Repository contains projects which I made while learning iOS (with the exce
 
 	•	iDecide - The first example from HeadFirst iOS book. Just one button which changes text on clicking.
 
-	•	ImageUtils - Utility for cropping and resizing UIImages (for the photo printing app). Also added modules for testing the utility in the app itself.
-
 	•	InstaEmail - Another simple example from the same book. Shows a MFMailComposeViewController after selecting and writing your message.
 
 	•	MultiView - An application which has two views switching to and from one another with different animations.
