@@ -1,0 +1,522 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		ACEBE95C18D825A0005723CB /* HomeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = ACEBE95A18D825A0005723CB /* HomeViewController.m */; };
+		ACEBE95D18D825A0005723CB /* HomeViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = ACEBE95B18D825A0005723CB /* HomeViewController.xib */; };
+		ACEBE96118D85261005723CB /* KBKeyboardHandler.m in Sources */ = {isa = PBXBuildFile; fileRef = ACEBE95F18D85261005723CB /* KBKeyboardHandler.m */; };
+		ACEBE96518D86F27005723CB /* TGCaptureTextView.m in Sources */ = {isa = PBXBuildFile; fileRef = ACEBE96318D86F27005723CB /* TGCaptureTextView.m */; };
+		ACEBE96618D86F27005723CB /* TGCaptureTextView.xib in Resources */ = {isa = PBXBuildFile; fileRef = ACEBE96418D86F27005723CB /* TGCaptureTextView.xib */; };
+		ACEBE96C18D87A8D005723CB /* TGCaptureDatePicker.m in Sources */ = {isa = PBXBuildFile; fileRef = ACEBE96A18D87A8D005723CB /* TGCaptureDatePicker.m */; };
+		ACEBE96D18D87A8D005723CB /* TGCaptureDatePicker.xib in Resources */ = {isa = PBXBuildFile; fileRef = ACEBE96B18D87A8D005723CB /* TGCaptureDatePicker.xib */; };
+		ACF9365618D8107A00BAC529 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = ACF9365518D8107A00BAC529 /* Foundation.framework */; };
+		ACF9365818D8107A00BAC529 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = ACF9365718D8107A00BAC529 /* CoreGraphics.framework */; };
+		ACF9365A18D8107A00BAC529 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = ACF9365918D8107A00BAC529 /* UIKit.framework */; };
+		ACF9366018D8107A00BAC529 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = ACF9365E18D8107A00BAC529 /* InfoPlist.strings */; };
+		ACF9366218D8107A00BAC529 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = ACF9366118D8107A00BAC529 /* main.m */; };
+		ACF9366618D8107A00BAC529 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = ACF9366518D8107A00BAC529 /* AppDelegate.m */; };
+		ACF9366818D8107A00BAC529 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ACF9366718D8107A00BAC529 /* Images.xcassets */; };
+		ACF9366F18D8107A00BAC529 /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = ACF9366E18D8107A00BAC529 /* XCTest.framework */; };
+		ACF9367018D8107A00BAC529 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = ACF9365518D8107A00BAC529 /* Foundation.framework */; };
+		ACF9367118D8107A00BAC529 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = ACF9365918D8107A00BAC529 /* UIKit.framework */; };
+		ACF9367918D8107B00BAC529 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = ACF9367718D8107B00BAC529 /* InfoPlist.strings */; };
+		ACF9367B18D8107B00BAC529 /* TGCaptureTests.m in Sources */ = {isa = PBXBuildFile; fileRef = ACF9367A18D8107B00BAC529 /* TGCaptureTests.m */; };
+		ACF9368718D816B400BAC529 /* TGCaptureTextField.m in Sources */ = {isa = PBXBuildFile; fileRef = ACF9368518D816B400BAC529 /* TGCaptureTextField.m */; };
+		ACF9368818D816B400BAC529 /* TGCaptureTextField.xib in Resources */ = {isa = PBXBuildFile; fileRef = ACF9368618D816B400BAC529 /* TGCaptureTextField.xib */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		ACF9367218D8107B00BAC529 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = ACF9364A18D8107A00BAC529 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = ACF9365118D8107A00BAC529;
+			remoteInfo = TGCapture;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		ACEBE95918D825A0005723CB /* HomeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HomeViewController.h; sourceTree = "<group>"; };
+		ACEBE95A18D825A0005723CB /* HomeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HomeViewController.m; sourceTree = "<group>"; };
+		ACEBE95B18D825A0005723CB /* HomeViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = HomeViewController.xib; sourceTree = "<group>"; };
+		ACEBE95E18D85261005723CB /* KBKeyboardHandler.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KBKeyboardHandler.h; sourceTree = "<group>"; };
+		ACEBE95F18D85261005723CB /* KBKeyboardHandler.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KBKeyboardHandler.m; sourceTree = "<group>"; };
+		ACEBE96018D85261005723CB /* KBKeyboardHandlerDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KBKeyboardHandlerDelegate.h; sourceTree = "<group>"; };
+		ACEBE96218D86F27005723CB /* TGCaptureTextView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TGCaptureTextView.h; sourceTree = "<group>"; };
+		ACEBE96318D86F27005723CB /* TGCaptureTextView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TGCaptureTextView.m; sourceTree = "<group>"; };
+		ACEBE96418D86F27005723CB /* TGCaptureTextView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = TGCaptureTextView.xib; sourceTree = "<group>"; };
+		ACEBE96918D87A8D005723CB /* TGCaptureDatePicker.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TGCaptureDatePicker.h; sourceTree = "<group>"; };
+		ACEBE96A18D87A8D005723CB /* TGCaptureDatePicker.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TGCaptureDatePicker.m; sourceTree = "<group>"; };
+		ACEBE96B18D87A8D005723CB /* TGCaptureDatePicker.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = TGCaptureDatePicker.xib; sourceTree = "<group>"; };
+		ACF9365218D8107A00BAC529 /* TGCapture.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TGCapture.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		ACF9365518D8107A00BAC529 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		ACF9365718D8107A00BAC529 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		ACF9365918D8107A00BAC529 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		ACF9365D18D8107A00BAC529 /* TGCapture-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "TGCapture-Info.plist"; sourceTree = "<group>"; };
+		ACF9365F18D8107A00BAC529 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		ACF9366118D8107A00BAC529 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		ACF9366318D8107A00BAC529 /* TGCapture-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "TGCapture-Prefix.pch"; sourceTree = "<group>"; };
+		ACF9366418D8107A00BAC529 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		ACF9366518D8107A00BAC529 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		ACF9366718D8107A00BAC529 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		ACF9366D18D8107A00BAC529 /* TGCaptureTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TGCaptureTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		ACF9366E18D8107A00BAC529 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
+		ACF9367618D8107B00BAC529 /* TGCaptureTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "TGCaptureTests-Info.plist"; sourceTree = "<group>"; };
+		ACF9367818D8107B00BAC529 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		ACF9367A18D8107B00BAC529 /* TGCaptureTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TGCaptureTests.m; sourceTree = "<group>"; };
+		ACF9368418D816B400BAC529 /* TGCaptureTextField.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TGCaptureTextField.h; sourceTree = "<group>"; };
+		ACF9368518D816B400BAC529 /* TGCaptureTextField.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TGCaptureTextField.m; sourceTree = "<group>"; };
+		ACF9368618D816B400BAC529 /* TGCaptureTextField.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = TGCaptureTextField.xib; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		ACF9364F18D8107A00BAC529 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				ACF9365818D8107A00BAC529 /* CoreGraphics.framework in Frameworks */,
+				ACF9365A18D8107A00BAC529 /* UIKit.framework in Frameworks */,
+				ACF9365618D8107A00BAC529 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		ACF9366A18D8107A00BAC529 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				ACF9366F18D8107A00BAC529 /* XCTest.framework in Frameworks */,
+				ACF9367118D8107A00BAC529 /* UIKit.framework in Frameworks */,
+				ACF9367018D8107A00BAC529 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		ACEBE96718D86F38005723CB /* TGCaptureLibrary */ = {
+			isa = PBXGroup;
+			children = (
+				ACF9368418D816B400BAC529 /* TGCaptureTextField.h */,
+				ACF9368518D816B400BAC529 /* TGCaptureTextField.m */,
+				ACF9368618D816B400BAC529 /* TGCaptureTextField.xib */,
+				ACEBE96218D86F27005723CB /* TGCaptureTextView.h */,
+				ACEBE96318D86F27005723CB /* TGCaptureTextView.m */,
+				ACEBE96418D86F27005723CB /* TGCaptureTextView.xib */,
+				ACEBE96918D87A8D005723CB /* TGCaptureDatePicker.h */,
+				ACEBE96A18D87A8D005723CB /* TGCaptureDatePicker.m */,
+				ACEBE96B18D87A8D005723CB /* TGCaptureDatePicker.xib */,
+			);
+			name = TGCaptureLibrary;
+			sourceTree = "<group>";
+		};
+		ACEBE96818D86F53005723CB /* KeyboardHandler */ = {
+			isa = PBXGroup;
+			children = (
+				ACEBE95E18D85261005723CB /* KBKeyboardHandler.h */,
+				ACEBE95F18D85261005723CB /* KBKeyboardHandler.m */,
+				ACEBE96018D85261005723CB /* KBKeyboardHandlerDelegate.h */,
+			);
+			name = KeyboardHandler;
+			sourceTree = "<group>";
+		};
+		ACF9364918D8107A00BAC529 = {
+			isa = PBXGroup;
+			children = (
+				ACF9365B18D8107A00BAC529 /* TGCapture */,
+				ACF9367418D8107B00BAC529 /* TGCaptureTests */,
+				ACF9365418D8107A00BAC529 /* Frameworks */,
+				ACF9365318D8107A00BAC529 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		ACF9365318D8107A00BAC529 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				ACF9365218D8107A00BAC529 /* TGCapture.app */,
+				ACF9366D18D8107A00BAC529 /* TGCaptureTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		ACF9365418D8107A00BAC529 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				ACF9365518D8107A00BAC529 /* Foundation.framework */,
+				ACF9365718D8107A00BAC529 /* CoreGraphics.framework */,
+				ACF9365918D8107A00BAC529 /* UIKit.framework */,
+				ACF9366E18D8107A00BAC529 /* XCTest.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		ACF9365B18D8107A00BAC529 /* TGCapture */ = {
+			isa = PBXGroup;
+			children = (
+				ACF9366418D8107A00BAC529 /* AppDelegate.h */,
+				ACF9366518D8107A00BAC529 /* AppDelegate.m */,
+				ACEBE95918D825A0005723CB /* HomeViewController.h */,
+				ACEBE95A18D825A0005723CB /* HomeViewController.m */,
+				ACEBE95B18D825A0005723CB /* HomeViewController.xib */,
+				ACEBE96818D86F53005723CB /* KeyboardHandler */,
+				ACEBE96718D86F38005723CB /* TGCaptureLibrary */,
+				ACF9366718D8107A00BAC529 /* Images.xcassets */,
+				ACF9365C18D8107A00BAC529 /* Supporting Files */,
+			);
+			path = TGCapture;
+			sourceTree = "<group>";
+		};
+		ACF9365C18D8107A00BAC529 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				ACF9365D18D8107A00BAC529 /* TGCapture-Info.plist */,
+				ACF9365E18D8107A00BAC529 /* InfoPlist.strings */,
+				ACF9366118D8107A00BAC529 /* main.m */,
+				ACF9366318D8107A00BAC529 /* TGCapture-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		ACF9367418D8107B00BAC529 /* TGCaptureTests */ = {
+			isa = PBXGroup;
+			children = (
+				ACF9367A18D8107B00BAC529 /* TGCaptureTests.m */,
+				ACF9367518D8107B00BAC529 /* Supporting Files */,
+			);
+			path = TGCaptureTests;
+			sourceTree = "<group>";
+		};
+		ACF9367518D8107B00BAC529 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				ACF9367618D8107B00BAC529 /* TGCaptureTests-Info.plist */,
+				ACF9367718D8107B00BAC529 /* InfoPlist.strings */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		ACF9365118D8107A00BAC529 /* TGCapture */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = ACF9367E18D8107B00BAC529 /* Build configuration list for PBXNativeTarget "TGCapture" */;
+			buildPhases = (
+				ACF9364E18D8107A00BAC529 /* Sources */,
+				ACF9364F18D8107A00BAC529 /* Frameworks */,
+				ACF9365018D8107A00BAC529 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = TGCapture;
+			productName = TGCapture;
+			productReference = ACF9365218D8107A00BAC529 /* TGCapture.app */;
+			productType = "com.apple.product-type.application";
+		};
+		ACF9366C18D8107A00BAC529 /* TGCaptureTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = ACF9368118D8107B00BAC529 /* Build configuration list for PBXNativeTarget "TGCaptureTests" */;
+			buildPhases = (
+				ACF9366918D8107A00BAC529 /* Sources */,
+				ACF9366A18D8107A00BAC529 /* Frameworks */,
+				ACF9366B18D8107A00BAC529 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				ACF9367318D8107B00BAC529 /* PBXTargetDependency */,
+			);
+			name = TGCaptureTests;
+			productName = TGCaptureTests;
+			productReference = ACF9366D18D8107A00BAC529 /* TGCaptureTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		ACF9364A18D8107A00BAC529 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0500;
+				ORGANIZATIONNAME = Akshat;
+				TargetAttributes = {
+					ACF9366C18D8107A00BAC529 = {
+						TestTargetID = ACF9365118D8107A00BAC529;
+					};
+				};
+			};
+			buildConfigurationList = ACF9364D18D8107A00BAC529 /* Build configuration list for PBXProject "TGCapture" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = ACF9364918D8107A00BAC529;
+			productRefGroup = ACF9365318D8107A00BAC529 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				ACF9365118D8107A00BAC529 /* TGCapture */,
+				ACF9366C18D8107A00BAC529 /* TGCaptureTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		ACF9365018D8107A00BAC529 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				ACF9368818D816B400BAC529 /* TGCaptureTextField.xib in Resources */,
+				ACF9366018D8107A00BAC529 /* InfoPlist.strings in Resources */,
+				ACF9366818D8107A00BAC529 /* Images.xcassets in Resources */,
+				ACEBE95D18D825A0005723CB /* HomeViewController.xib in Resources */,
+				ACEBE96618D86F27005723CB /* TGCaptureTextView.xib in Resources */,
+				ACEBE96D18D87A8D005723CB /* TGCaptureDatePicker.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		ACF9366B18D8107A00BAC529 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				ACF9367918D8107B00BAC529 /* InfoPlist.strings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		ACF9364E18D8107A00BAC529 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				ACEBE96118D85261005723CB /* KBKeyboardHandler.m in Sources */,
+				ACEBE96518D86F27005723CB /* TGCaptureTextView.m in Sources */,
+				ACF9366618D8107A00BAC529 /* AppDelegate.m in Sources */,
+				ACF9366218D8107A00BAC529 /* main.m in Sources */,
+				ACF9368718D816B400BAC529 /* TGCaptureTextField.m in Sources */,
+				ACEBE95C18D825A0005723CB /* HomeViewController.m in Sources */,
+				ACEBE96C18D87A8D005723CB /* TGCaptureDatePicker.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		ACF9366918D8107A00BAC529 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				ACF9367B18D8107B00BAC529 /* TGCaptureTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		ACF9367318D8107B00BAC529 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = ACF9365118D8107A00BAC529 /* TGCapture */;
+			targetProxy = ACF9367218D8107B00BAC529 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		ACF9365E18D8107A00BAC529 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				ACF9365F18D8107A00BAC529 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		ACF9367718D8107B00BAC529 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				ACF9367818D8107B00BAC529 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		ACF9367C18D8107B00BAC529 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		ACF9367D18D8107B00BAC529 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		ACF9367F18D8107B00BAC529 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "TGCapture/TGCapture-Prefix.pch";
+				INFOPLIST_FILE = "TGCapture/TGCapture-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		ACF9368018D8107B00BAC529 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "TGCapture/TGCapture-Prefix.pch";
+				INFOPLIST_FILE = "TGCapture/TGCapture-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+		ACF9368218D8107B00BAC529 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/TGCapture.app/TGCapture";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "TGCapture/TGCapture-Prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "TGCaptureTests/TGCaptureTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Debug;
+		};
+		ACF9368318D8107B00BAC529 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/TGCapture.app/TGCapture";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "TGCapture/TGCapture-Prefix.pch";
+				INFOPLIST_FILE = "TGCaptureTests/TGCaptureTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		ACF9364D18D8107A00BAC529 /* Build configuration list for PBXProject "TGCapture" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				ACF9367C18D8107B00BAC529 /* Debug */,
+				ACF9367D18D8107B00BAC529 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		ACF9367E18D8107B00BAC529 /* Build configuration list for PBXNativeTarget "TGCapture" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				ACF9367F18D8107B00BAC529 /* Debug */,
+				ACF9368018D8107B00BAC529 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		ACF9368118D8107B00BAC529 /* Build configuration list for PBXNativeTarget "TGCaptureTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				ACF9368218D8107B00BAC529 /* Debug */,
+				ACF9368318D8107B00BAC529 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = ACF9364A18D8107A00BAC529 /* Project object */;
+}

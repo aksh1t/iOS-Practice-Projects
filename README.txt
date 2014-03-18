@@ -30,3 +30,4 @@ This Repository contains projects which I made while learning iOS (with the exce
 
 	•	PageControlExample - An example demonstrating UIScrollView with paging vertically.
 
+	•	TGCapture - Library for various popup input views. 
