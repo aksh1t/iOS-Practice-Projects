@@ -18,7 +18,6 @@
         
         [titleLabel setText:title];
         [messageLabel setText:message];
-        datePicker.transform = CGAffineTransformMakeScale(0.8, 0.8);
         
         UITapGestureRecognizer *singleTap = [[UITapGestureRecognizer alloc] initWithTarget:self action:@selector(tapped)];
         [singleTap setNumberOfTouchesRequired : 1];
@@ -91,13 +90,6 @@
                              }
                          }];
                      }];
-}
-
-- (void)keyboardSizeChanged:(CGSize)delta{
-    delta.height += (delta.height<0)? 100:-100;
-    CGRect frame = self.view.frame;
-    frame.origin.y -= delta.height;
-    self.view.frame = frame;
 }
 
 @end

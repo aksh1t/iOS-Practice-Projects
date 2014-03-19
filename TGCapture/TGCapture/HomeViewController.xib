@@ -15,7 +15,7 @@
             <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
             <subviews>
                 <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="fFB-ea-QfE">
-                    <rect key="frame" x="144" y="231" width="33" height="30"/>
+                    <rect key="frame" x="144" y="193" width="33" height="30"/>
                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                     <state key="normal" title="Field">
                         <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
@@ -25,7 +25,7 @@
                     </connections>
                 </button>
                 <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="0CM-P0-3q6">
-                    <rect key="frame" x="144" y="269" width="33" height="30"/>
+                    <rect key="frame" x="144" y="231" width="33" height="30"/>
                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                     <state key="normal" title="View">
                         <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
@@ -35,7 +35,7 @@
                     </connections>
                 </button>
                 <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="2e5-36-EQM">
-                    <rect key="frame" x="144" y="307" width="32" height="30"/>
+                    <rect key="frame" x="144" y="269" width="32" height="30"/>
                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                     <state key="normal" title="Date">
                         <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
@@ -44,15 +44,51 @@
                         <action selector="button3Clicked:" destination="-1" eventType="touchUpInside" id="1tG-6D-40o"/>
                     </connections>
                 </button>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="1FA-VV-nWe">
+                    <rect key="frame" x="142" y="307" width="37" height="30"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <state key="normal" title="Table">
+                        <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                    </state>
+                    <connections>
+                        <action selector="button4Clicked:" destination="-1" eventType="touchUpInside" id="MPd-aE-y5H"/>
+                    </connections>
+                </button>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="lka-fh-MOC">
+                    <rect key="frame" x="140" y="345" width="41" height="30"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <state key="normal" title="Photo">
+                        <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                    </state>
+                    <connections>
+                        <action selector="button5Clicked:" destination="-1" eventType="touchUpInside" id="8CG-7m-XpP"/>
+                    </connections>
+                </button>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="1TB-5x-kBr">
+                    <rect key="frame" x="141" y="383" width="39" height="30"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <state key="normal" title="Video">
+                        <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                    </state>
+                    <connections>
+                        <action selector="button6Clicked:" destination="-1" eventType="touchUpInside" id="0JT-Qj-Pgv"/>
+                    </connections>
+                </button>
             </subviews>
             <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
             <constraints>
-                <constraint firstItem="2e5-36-EQM" firstAttribute="leading" secondItem="0CM-P0-3q6" secondAttribute="leading" id="6Fl-YF-MAb"/>
-                <constraint firstItem="0CM-P0-3q6" firstAttribute="leading" secondItem="fFB-ea-QfE" secondAttribute="leading" id="CF2-le-2gQ"/>
-                <constraint firstItem="0CM-P0-3q6" firstAttribute="centerX" secondItem="1" secondAttribute="centerX" id="GuZ-Kb-fMW"/>
-                <constraint firstItem="0CM-P0-3q6" firstAttribute="centerY" secondItem="1" secondAttribute="centerY" id="ZFK-As-57P"/>
-                <constraint firstItem="2e5-36-EQM" firstAttribute="top" secondItem="0CM-P0-3q6" secondAttribute="bottom" constant="8" symbolic="YES" id="nb0-q9-H1A"/>
-                <constraint firstItem="0CM-P0-3q6" firstAttribute="top" secondItem="fFB-ea-QfE" secondAttribute="bottom" constant="8" symbolic="YES" id="wEy-vP-tkq"/>
+                <constraint firstItem="0CM-P0-3q6" firstAttribute="leading" secondItem="2e5-36-EQM" secondAttribute="leading" id="6US-xE-TE0"/>
+                <constraint firstItem="0CM-P0-3q6" firstAttribute="top" secondItem="fFB-ea-QfE" secondAttribute="bottom" constant="8" symbolic="YES" id="714-a9-0wG"/>
+                <constraint firstItem="lka-fh-MOC" firstAttribute="centerX" secondItem="1FA-VV-nWe" secondAttribute="centerX" id="Gw6-bt-TZ8"/>
+                <constraint firstItem="2e5-36-EQM" firstAttribute="top" secondItem="0CM-P0-3q6" secondAttribute="bottom" constant="8" symbolic="YES" id="JSK-k3-AAL"/>
+                <constraint firstItem="1TB-5x-kBr" firstAttribute="top" secondItem="lka-fh-MOC" secondAttribute="bottom" constant="8" symbolic="YES" id="LOn-mH-e1H"/>
+                <constraint firstItem="lka-fh-MOC" firstAttribute="top" secondItem="1FA-VV-nWe" secondAttribute="bottom" constant="8" symbolic="YES" id="MlS-aA-g6a"/>
+                <constraint firstItem="2e5-36-EQM" firstAttribute="centerX" secondItem="1FA-VV-nWe" secondAttribute="centerX" id="dbZ-s6-DSZ"/>
+                <constraint firstItem="0CM-P0-3q6" firstAttribute="leading" secondItem="fFB-ea-QfE" secondAttribute="leading" id="dvr-GR-wZb"/>
+                <constraint firstItem="1FA-VV-nWe" firstAttribute="top" secondItem="2e5-36-EQM" secondAttribute="bottom" constant="8" symbolic="YES" id="jFy-f2-Oin"/>
+                <constraint firstItem="2e5-36-EQM" firstAttribute="centerY" secondItem="1" secondAttribute="centerY" id="jb0-ri-Q4r"/>
+                <constraint firstItem="1TB-5x-kBr" firstAttribute="centerX" secondItem="lka-fh-MOC" secondAttribute="centerX" id="pyN-Wc-vL4"/>
+                <constraint firstItem="1FA-VV-nWe" firstAttribute="centerX" secondItem="1" secondAttribute="centerX" id="yDR-8c-NFe"/>
             </constraints>
             <simulatedStatusBarMetrics key="simulatedStatusBarMetrics"/>
             <simulatedScreenMetrics key="simulatedDestinationMetrics" type="retina4"/>

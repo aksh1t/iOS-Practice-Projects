@@ -19,7 +19,9 @@
         
         [titleLabel setText:title];
         [messageLabel setText:message];
-        [textView.layer setCornerRadius:2];
+        [textView.layer setCornerRadius:5];
+        [textView.layer setBorderColor:[[[UIColor grayColor] colorWithAlphaComponent:0.5] CGColor]];
+        [textView.layer setBorderWidth:0.5];
         
         keyboard = [[KBKeyboardHandler alloc] init];
         keyboard.delegate = self;
@@ -114,7 +116,7 @@
 }
 
 - (void)keyboardSizeChanged:(CGSize)delta{
-    delta.height += (delta.height<0)? 100:-100;
+    delta.height += (delta.height<0)? 120:-120;
     CGRect frame = self.view.frame;
     frame.origin.y -= delta.height;
     self.view.frame = frame;

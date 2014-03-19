@@ -47,6 +47,34 @@
     
 }
 
+- (IBAction)button4Clicked:(id)sender{
+    
+    NSArray *arr = [[NSArray alloc]initWithObjects:@"A",@"B",@"C",@"D",@"E", nil];
+    
+    TGCaptureTableView *tg = [[TGCaptureTableView alloc]initWithTitle:@"My Title" andMessage:@"Select your cells:" andData:arr withMode:tgCaptureTableViewModeSingleSelection];
+    [tg setDelegate:self];
+    [tg showInViewController:self];
+    
+}
+
+- (IBAction)button5Clicked:(id)sender{
+
+    TGCapturePhotoPicker *tg = [[TGCapturePhotoPicker alloc]initWithTitle:@"My Title" andMessage:@"Select your photo:"];
+    [tg setDelegate:self];
+    [tg showInViewController:self];
+    
+}
+
+- (IBAction)button6Clicked:(id)sender{
+    
+    TGCaptureVideoPicker *tg = [[TGCaptureVideoPicker alloc]initWithTitle:@"My Title" andMessage:@"Select your photo:"];
+    [tg setDelegate:self];
+    [tg showInViewController:self];
+    
+}
+
+
+
 - (void)tgCaptureTextFieldReturnedData:(NSString *)data{
     NSLog(@"%@",data);
 }
@@ -57,6 +85,18 @@
 
 -(void)tgCaptureDatePickerReturnedDate:(NSDate *)date{
     NSLog(@"%@",date);
+}
+
+-(void)tgCaptureTableViewReturnedData:(NSArray *)data{
+    NSLog(@"%@",data);
+}
+
+-(void)tgCapturePhotoPickerReturnedData:(NSDictionary *)info{
+    NSLog(@"%@",info);
+}
+
+-(void)tgCaptureVideoPickerReturnedData:(NSDictionary *)info{
+    NSLog(@"%@",info);
 }
 
 @end

@@ -7,6 +7,16 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		AC2C5CD018D995E600795656 /* CustomCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = AC2C5CCF18D995E600795656 /* CustomCell.xib */; };
+		AC2C5CD318D9966700795656 /* checkmark.png in Resources */ = {isa = PBXBuildFile; fileRef = AC2C5CD118D9966700795656 /* checkmark.png */; };
+		AC2C5CD418D9966700795656 /* checkmark@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = AC2C5CD218D9966700795656 /* checkmark@2x.png */; };
+		AC2C5CD818D9AC9E00795656 /* TGCapturePhotoPicker.m in Sources */ = {isa = PBXBuildFile; fileRef = AC2C5CD618D9AC9E00795656 /* TGCapturePhotoPicker.m */; };
+		AC2C5CD918D9AC9E00795656 /* TGCapturePhotoPicker.xib in Resources */ = {isa = PBXBuildFile; fileRef = AC2C5CD718D9AC9E00795656 /* TGCapturePhotoPicker.xib */; };
+		AC2C5CDD18D9C85E00795656 /* TGCaptureVideoPicker.m in Sources */ = {isa = PBXBuildFile; fileRef = AC2C5CDB18D9C85E00795656 /* TGCaptureVideoPicker.m */; };
+		AC2C5CDE18D9C85E00795656 /* TGCaptureVideoPicker.xib in Resources */ = {isa = PBXBuildFile; fileRef = AC2C5CDC18D9C85E00795656 /* TGCaptureVideoPicker.xib */; };
+		AC2C5CE018D9CA7900795656 /* MobileCoreServices.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AC2C5CDF18D9CA7900795656 /* MobileCoreServices.framework */; };
+		AC95E0E218D9739000BAA884 /* TGCaptureTableView.m in Sources */ = {isa = PBXBuildFile; fileRef = AC95E0E018D9739000BAA884 /* TGCaptureTableView.m */; };
+		AC95E0E318D9739000BAA884 /* TGCaptureTableView.xib in Resources */ = {isa = PBXBuildFile; fileRef = AC95E0E118D9739000BAA884 /* TGCaptureTableView.xib */; };
 		ACEBE95C18D825A0005723CB /* HomeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = ACEBE95A18D825A0005723CB /* HomeViewController.m */; };
 		ACEBE95D18D825A0005723CB /* HomeViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = ACEBE95B18D825A0005723CB /* HomeViewController.xib */; };
 		ACEBE96118D85261005723CB /* KBKeyboardHandler.m in Sources */ = {isa = PBXBuildFile; fileRef = ACEBE95F18D85261005723CB /* KBKeyboardHandler.m */; };
@@ -41,6 +51,19 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		AC2C5CCF18D995E600795656 /* CustomCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = CustomCell.xib; sourceTree = "<group>"; };
+		AC2C5CD118D9966700795656 /* checkmark.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = checkmark.png; sourceTree = "<group>"; };
+		AC2C5CD218D9966700795656 /* checkmark@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "checkmark@2x.png"; sourceTree = "<group>"; };
+		AC2C5CD518D9AC9E00795656 /* TGCapturePhotoPicker.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TGCapturePhotoPicker.h; sourceTree = "<group>"; };
+		AC2C5CD618D9AC9E00795656 /* TGCapturePhotoPicker.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TGCapturePhotoPicker.m; sourceTree = "<group>"; };
+		AC2C5CD718D9AC9E00795656 /* TGCapturePhotoPicker.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = TGCapturePhotoPicker.xib; sourceTree = "<group>"; };
+		AC2C5CDA18D9C85E00795656 /* TGCaptureVideoPicker.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TGCaptureVideoPicker.h; sourceTree = "<group>"; };
+		AC2C5CDB18D9C85E00795656 /* TGCaptureVideoPicker.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TGCaptureVideoPicker.m; sourceTree = "<group>"; };
+		AC2C5CDC18D9C85E00795656 /* TGCaptureVideoPicker.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = TGCaptureVideoPicker.xib; sourceTree = "<group>"; };
+		AC2C5CDF18D9CA7900795656 /* MobileCoreServices.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MobileCoreServices.framework; path = System/Library/Frameworks/MobileCoreServices.framework; sourceTree = SDKROOT; };
+		AC95E0DF18D9739000BAA884 /* TGCaptureTableView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TGCaptureTableView.h; sourceTree = "<group>"; };
+		AC95E0E018D9739000BAA884 /* TGCaptureTableView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TGCaptureTableView.m; sourceTree = "<group>"; };
+		AC95E0E118D9739000BAA884 /* TGCaptureTableView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = TGCaptureTableView.xib; sourceTree = "<group>"; };
 		ACEBE95918D825A0005723CB /* HomeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HomeViewController.h; sourceTree = "<group>"; };
 		ACEBE95A18D825A0005723CB /* HomeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HomeViewController.m; sourceTree = "<group>"; };
 		ACEBE95B18D825A0005723CB /* HomeViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = HomeViewController.xib; sourceTree = "<group>"; };
@@ -79,6 +102,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AC2C5CE018D9CA7900795656 /* MobileCoreServices.framework in Frameworks */,
 				ACF9365818D8107A00BAC529 /* CoreGraphics.framework in Frameworks */,
 				ACF9365A18D8107A00BAC529 /* UIKit.framework in Frameworks */,
 				ACF9365618D8107A00BAC529 /* Foundation.framework in Frameworks */,
@@ -110,6 +134,18 @@
 				ACEBE96918D87A8D005723CB /* TGCaptureDatePicker.h */,
 				ACEBE96A18D87A8D005723CB /* TGCaptureDatePicker.m */,
 				ACEBE96B18D87A8D005723CB /* TGCaptureDatePicker.xib */,
+				AC95E0DF18D9739000BAA884 /* TGCaptureTableView.h */,
+				AC95E0E018D9739000BAA884 /* TGCaptureTableView.m */,
+				AC95E0E118D9739000BAA884 /* TGCaptureTableView.xib */,
+				AC2C5CCF18D995E600795656 /* CustomCell.xib */,
+				AC2C5CD118D9966700795656 /* checkmark.png */,
+				AC2C5CD218D9966700795656 /* checkmark@2x.png */,
+				AC2C5CD518D9AC9E00795656 /* TGCapturePhotoPicker.h */,
+				AC2C5CD618D9AC9E00795656 /* TGCapturePhotoPicker.m */,
+				AC2C5CD718D9AC9E00795656 /* TGCapturePhotoPicker.xib */,
+				AC2C5CDA18D9C85E00795656 /* TGCaptureVideoPicker.h */,
+				AC2C5CDB18D9C85E00795656 /* TGCaptureVideoPicker.m */,
+				AC2C5CDC18D9C85E00795656 /* TGCaptureVideoPicker.xib */,
 			);
 			name = TGCaptureLibrary;
 			sourceTree = "<group>";
@@ -146,6 +182,7 @@
 		ACF9365418D8107A00BAC529 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				AC2C5CDF18D9CA7900795656 /* MobileCoreServices.framework */,
 				ACF9365518D8107A00BAC529 /* Foundation.framework */,
 				ACF9365718D8107A00BAC529 /* CoreGraphics.framework */,
 				ACF9365918D8107A00BAC529 /* UIKit.framework */,
@@ -276,10 +313,16 @@
 			files = (
 				ACF9368818D816B400BAC529 /* TGCaptureTextField.xib in Resources */,
 				ACF9366018D8107A00BAC529 /* InfoPlist.strings in Resources */,
+				AC2C5CD018D995E600795656 /* CustomCell.xib in Resources */,
 				ACF9366818D8107A00BAC529 /* Images.xcassets in Resources */,
+				AC2C5CD418D9966700795656 /* checkmark@2x.png in Resources */,
+				AC95E0E318D9739000BAA884 /* TGCaptureTableView.xib in Resources */,
 				ACEBE95D18D825A0005723CB /* HomeViewController.xib in Resources */,
+				AC2C5CD918D9AC9E00795656 /* TGCapturePhotoPicker.xib in Resources */,
 				ACEBE96618D86F27005723CB /* TGCaptureTextView.xib in Resources */,
+				AC2C5CDE18D9C85E00795656 /* TGCaptureVideoPicker.xib in Resources */,
 				ACEBE96D18D87A8D005723CB /* TGCaptureDatePicker.xib in Resources */,
+				AC2C5CD318D9966700795656 /* checkmark.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -299,6 +342,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				ACEBE96118D85261005723CB /* KBKeyboardHandler.m in Sources */,
+				AC2C5CDD18D9C85E00795656 /* TGCaptureVideoPicker.m in Sources */,
+				AC2C5CD818D9AC9E00795656 /* TGCapturePhotoPicker.m in Sources */,
+				AC95E0E218D9739000BAA884 /* TGCaptureTableView.m in Sources */,
 				ACEBE96518D86F27005723CB /* TGCaptureTextView.m in Sources */,
 				ACF9366618D8107A00BAC529 /* AppDelegate.m in Sources */,
 				ACF9366218D8107A00BAC529 /* main.m in Sources */,
@@ -426,7 +472,9 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "TGCapture/TGCapture-Prefix.pch";
 				INFOPLIST_FILE = "TGCapture/TGCapture-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "8B68FBD4-1FA1-4068-927D-7A9AE5A4307C";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -439,7 +487,9 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "TGCapture/TGCapture-Prefix.pch";
 				INFOPLIST_FILE = "TGCapture/TGCapture-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "8B68FBD4-1FA1-4068-927D-7A9AE5A4307C";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;

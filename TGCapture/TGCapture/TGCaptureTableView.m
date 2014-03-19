@@ -1,14 +1,13 @@
-#import "TGCaptureTextField.h"
+#import "TGCaptureTableView.h"
 
-@implementation TGCaptureTextField{
-    KBKeyboardHandler *keyboard;
+@implementation TGCaptureTableView{
     BOOL canceled;
 }
 
 @synthesize delegate;
 
-- (TGCaptureTextField *)initWithTitle:(NSString *)title andMessage:(NSString *)message{
-    self = [self initWithNibName:@"TGCaptureTextField" bundle:nil];
+- (TGCaptureTableView *)initWithTitle:(NSString *)title andMessage:(NSString *)message andData:(NSArray *)array withMode:(tgCaptureTableViewMode)mode{
+    self = [self initWithNibName:@"TGCaptureTableView" bundle:nil];
     if(self){
         canceled = NO;
         
@@ -19,14 +18,18 @@
         
         [titleLabel setText:title];
         [messageLabel setText:message];
-        
-        keyboard = [[KBKeyboardHandler alloc] init];
-        keyboard.delegate = self;
+        [tableView.layer setCornerRadius:5];
+        [tableView.layer setBorderColor:[[[UIColor grayColor] colorWithAlphaComponent:0.5] CGColor]];
+        [tableView.layer setBorderWidth:0.5];
+
+        data = array;
+        selectedData = [[NSMutableArray alloc]init];
+        for(id obj in data) [selectedData addObject:[NSNumber numberWithBool:FALSE]];
+        currentMode = mode;
         
         UITapGestureRecognizer *singleTap = [[UITapGestureRecognizer alloc] initWithTarget:self action:@selector(tapped)];
         [singleTap setNumberOfTouchesRequired : 1];
         [overlayView addGestureRecognizer:singleTap];
-        
     }
     return self;
 }
@@ -74,20 +77,6 @@
     [super didReceiveMemoryWarning];
 }
 
-- (BOOL)textFieldShouldBeginEditing:(UITextField *)textField{
-    return YES;
-}
-
-- (BOOL)textFieldShouldReturn:(UITextField *)tf{
-    [tf resignFirstResponder];
-    return YES;
-}
-
-- (BOOL)textFieldShouldEndEditing:(UITextField *)tf{
-    [tf resignFirstResponder];
-    return YES;
-}
-
 - (IBAction)doneButtonClicked:(id)sender{
     [UIView animateWithDuration:0.1 delay:0.0
                         options:UIViewAnimationOptionCurveEaseInOut
@@ -99,24 +88,55 @@
                              overlayView.alpha = 0;
                              self.view.alpha = 0;
                          } completion:^(BOOL finished) {
-                             [textField resignFirstResponder];
                              [self.view removeFromSuperview];
                              [overlayView removeFromSuperview];
                              [self removeFromParentViewController];
                              if(canceled){
-                                 [delegate tgCaptureTextFieldReturnedData:@""];
+                                 [delegate tgCaptureTableViewReturnedData:nil];
                              }else{
-                                 [delegate tgCaptureTextFieldReturnedData:textField.text];
+                                 [delegate tgCaptureTableViewReturnedData:selectedData];
                              }
                          }];
                      }];
 }
 
-- (void)keyboardSizeChanged:(CGSize)delta{
-    delta.height += (delta.height<0)? 125:-125;
-    CGRect frame = self.view.frame;
-    frame.origin.y -= delta.height;
-    self.view.frame = frame;
+-(NSInteger)tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section{
+    return data.count;
+}
+
+-(void)tableView:(UITableView *)tv didSelectRowAtIndexPath:(NSIndexPath *)indexPath{
+    switch (currentMode) {
+        case tgCaptureTableViewModeSingleSelection:
+            [selectedData removeAllObjects];
+            for(id obj in data) [selectedData addObject:[NSNumber numberWithBool:FALSE]];
+            [selectedData replaceObjectAtIndex:indexPath.row withObject:[NSNumber numberWithBool:TRUE]];
+            break;
+        case tgCaptureTableViewModeMultiSelection:
+            if([[selectedData objectAtIndex:indexPath.row]boolValue])
+                [selectedData replaceObjectAtIndex:indexPath.row withObject:[NSNumber numberWithBool:FALSE]];
+            else
+                [selectedData replaceObjectAtIndex:indexPath.row withObject:[NSNumber numberWithBool:TRUE]];
+            break;
+        default:
+            break;
+    }
+    [tv reloadData];
+}
+
+-(UITableViewCell *)tableView:(UITableView *)tv cellForRowAtIndexPath:(NSIndexPath *)indexPath{
+    UITableViewCell *cell = [tv dequeueReusableCellWithIdentifier:@"Cell"];
+    if (cell == nil) {
+        NSArray *topLevelObjects = [[NSBundle mainBundle] loadNibNamed:@"CustomCell" owner:self options:nil];
+        cell = [topLevelObjects objectAtIndex:0];
+    }
+
+    UILabel *cellLabel = (UILabel *)[cell viewWithTag:1];
+    [cellLabel setText:[data objectAtIndex:indexPath.row]];
+    
+    UIImageView *checkmark = (UIImageView *)[cell viewWithTag:2];
+    [checkmark setHidden:![[selectedData objectAtIndex:indexPath.row]boolValue]];
+    
+    return cell;
 }
 
 @end
