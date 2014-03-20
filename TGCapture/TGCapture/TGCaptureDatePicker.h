@@ -1,23 +1,10 @@
 #import <UIKit/UIKit.h>
+#import "TGCapture.h"
 
-@protocol TGCaptureDatePickerDelegate;
-
-@interface TGCaptureDatePicker : UIViewController{
-    IBOutlet UILabel        *titleLabel;
-    IBOutlet UILabel        *messageLabel;
+@interface TGCaptureDatePicker : TGCapture{
     IBOutlet UIDatePicker   *datePicker;
-    IBOutlet UIButton       *doneButton;
-    IBOutlet UIView         *overlayView;
 }
 
-@property (nonatomic, retain) id<TGCaptureDatePickerDelegate> delegate;
-
 - (TGCaptureDatePicker *)initWithTitle: (NSString *)title andMessage: (NSString *)message;
-- (void)showInViewController: (UIViewController *)vc;
 
-@end
-
-@protocol TGCaptureDatePickerDelegate <NSObject>
-@required
-- (void)tgCaptureDatePickerReturnedDate: (NSDate *)date;
 @end

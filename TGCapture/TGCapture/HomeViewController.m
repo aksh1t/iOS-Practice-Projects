@@ -73,30 +73,8 @@
     
 }
 
-
-
-- (void)tgCaptureTextFieldReturnedData:(NSString *)data{
+-(void)tgCaptureReturnedData:(id)data{
     NSLog(@"%@",data);
-}
-
--(void)tgCaptureTextViewReturnedData:(NSString *)data{
-    NSLog(@"%@",data);
-}
-
--(void)tgCaptureDatePickerReturnedDate:(NSDate *)date{
-    NSLog(@"%@",date);
-}
-
--(void)tgCaptureTableViewReturnedData:(NSArray *)data{
-    NSLog(@"%@",data);
-}
-
--(void)tgCapturePhotoPickerReturnedData:(NSDictionary *)info{
-    NSLog(@"%@",info);
-}
-
--(void)tgCaptureVideoPickerReturnedData:(NSDictionary *)info{
-    NSLog(@"%@",info);
 }
 
 @end

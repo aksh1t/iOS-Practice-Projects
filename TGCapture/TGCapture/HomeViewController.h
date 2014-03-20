@@ -14,7 +14,7 @@
 #import "TGCapturePhotoPicker.h"
 #import "TGCaptureVideoPicker.h"
 
-@interface HomeViewController : UIViewController <TGCaptureTextFieldDelegate,TGCaptureTextViewDelegate,TGCaptureDatePickerDelegate,TGCaptureTableViewDelegate,TGCapturePhotoPickerDelegate,TGCaptureVideoPickerDelegate>
+@interface HomeViewController : UIViewController <TGCaptureDelegate>
 
 - (IBAction)buttonClicked:(id)sender;
 - (IBAction)button2Clicked:(id)sender;

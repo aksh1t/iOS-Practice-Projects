@@ -1,23 +1,10 @@
 #import "TGCaptureTableView.h"
 
-@implementation TGCaptureTableView{
-    BOOL canceled;
-}
-
-@synthesize delegate;
+@implementation TGCaptureTableView
 
 - (TGCaptureTableView *)initWithTitle:(NSString *)title andMessage:(NSString *)message andData:(NSArray *)array withMode:(tgCaptureTableViewMode)mode{
-    self = [self initWithNibName:@"TGCaptureTableView" bundle:nil];
+    self = [self initWithNibName:@"TGCaptureTableView" andTitle:title andMessage:message];
     if(self){
-        canceled = NO;
-        
-        [self.view.layer setCornerRadius:5];
-        [self.view.layer setShadowOffset:CGSizeMake(5,5)];
-        [self.view.layer setShadowRadius:10];
-        [self.view.layer setShadowOpacity:0.3];
-        
-        [titleLabel setText:title];
-        [messageLabel setText:message];
         [tableView.layer setCornerRadius:5];
         [tableView.layer setBorderColor:[[[UIColor grayColor] colorWithAlphaComponent:0.5] CGColor]];
         [tableView.layer setBorderWidth:0.5];
@@ -26,42 +13,8 @@
         selectedData = [[NSMutableArray alloc]init];
         for(id obj in data) [selectedData addObject:[NSNumber numberWithBool:FALSE]];
         currentMode = mode;
-        
-        UITapGestureRecognizer *singleTap = [[UITapGestureRecognizer alloc] initWithTarget:self action:@selector(tapped)];
-        [singleTap setNumberOfTouchesRequired : 1];
-        [overlayView addGestureRecognizer:singleTap];
     }
     return self;
-}
-
-- (void)tapped{
-    canceled = YES;
-    [self doneButtonClicked:self];
-}
-
-- (void)showInViewController:(UIViewController *)vc{
-    [overlayView setFrame:vc.view.frame];
-    [self.view setCenter:vc.view.center];
-    [vc addChildViewController:self];
-    [vc.view addSubview:overlayView];
-    [vc.view addSubview:self.view];
-    
-    overlayView.alpha = 0;
-    self.view.alpha = 0;
-    
-    self.view.transform = CGAffineTransformMakeScale(0.01,0.01);
-    
-    [UIView animateWithDuration:0.3 delay:0.0
-                        options:UIViewAnimationOptionCurveEaseInOut
-                     animations:^{
-                         self.view.transform = CGAffineTransformMakeScale(1.1,1.1);
-                         overlayView.alpha = 0.6;
-                         self.view.alpha = 1;
-                     } completion:^(BOOL finished){
-                         [UIView animateWithDuration:0.1 animations:^{
-                             self.view.transform = CGAffineTransformMakeScale(1,1);
-                         }];
-                     }];
 }
 
 - (id)initWithNibName:(NSString *)nibNameOrNil bundle:(NSBundle *)nibBundleOrNil{
@@ -78,26 +31,7 @@
 }
 
 - (IBAction)doneButtonClicked:(id)sender{
-    [UIView animateWithDuration:0.1 delay:0.0
-                        options:UIViewAnimationOptionCurveEaseInOut
-                     animations:^{
-                         self.view.transform = CGAffineTransformMakeScale(1.1,1.1);
-                     } completion:^(BOOL finished){
-                         [UIView animateWithDuration:0.3 animations:^{
-                             self.view.transform = CGAffineTransformMakeScale(0.01,0.01);
-                             overlayView.alpha = 0;
-                             self.view.alpha = 0;
-                         } completion:^(BOOL finished) {
-                             [self.view removeFromSuperview];
-                             [overlayView removeFromSuperview];
-                             [self removeFromParentViewController];
-                             if(canceled){
-                                 [delegate tgCaptureTableViewReturnedData:nil];
-                             }else{
-                                 [delegate tgCaptureTableViewReturnedData:selectedData];
-                             }
-                         }];
-                     }];
+    [self removePopupFromViewReturningData:selectedData];
 }
 
 -(NSInteger)tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section{

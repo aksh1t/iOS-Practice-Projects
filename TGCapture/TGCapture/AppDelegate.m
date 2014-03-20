@@ -2,7 +2,7 @@
 //  AppDelegate.m
 //  TGCapture
 //
-//  Created by Akshat on 18/03/14.
+//  Created by Akshat on 20/03/14.
 //  Copyright (c) 2014 Akshat. All rights reserved.
 //
 
