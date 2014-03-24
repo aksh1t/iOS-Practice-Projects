@@ -9,6 +9,7 @@
                 <outlet property="messageLabel" destination="tsw-Rq-o5h" id="hAF-c8-FC6"/>
                 <outlet property="overlayView" destination="ygz-jk-XsA" id="XmF-Vo-Xdw"/>
                 <outlet property="selectPicture" destination="ILC-Ni-eGS" id="9Tx-dB-mrK"/>
+                <outlet property="separatorView" destination="cou-Ku-j33" id="RsB-a1-aFi"/>
                 <outlet property="takePicture" destination="PkX-5A-xMp" id="evq-si-lra"/>
                 <outlet property="titleLabel" destination="TZa-VZ-6mD" id="LY5-ir-ICR"/>
                 <outlet property="view" destination="Yml-Fk-60O" id="CeD-NM-KDE"/>

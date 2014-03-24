@@ -9,6 +9,7 @@
                 <outlet property="doneButton" destination="53n-Wt-uh3" id="BaF-fH-Uli"/>
                 <outlet property="messageLabel" destination="cne-Pl-WLn" id="aG8-iR-Bab"/>
                 <outlet property="overlayView" destination="Wgu-Ji-BMH" id="w3S-dy-dbm"/>
+                <outlet property="separatorView" destination="Ax5-dV-eHh" id="XEm-p8-yS5"/>
                 <outlet property="textField" destination="pBn-un-BfZ" id="DZk-Ey-Zvm"/>
                 <outlet property="titleLabel" destination="Anb-9p-faE" id="B4g-4b-lju"/>
                 <outlet property="view" destination="3L0-bc-DpS" id="M2C-XO-Yu9"/>

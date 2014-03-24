@@ -14,6 +14,7 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
+    
     // Do any additional setup after loading the view from its nib.
 }
 
@@ -26,6 +27,8 @@
 - (IBAction)buttonClicked:(id)sender{
     
     TGCaptureTextField *tg = [[TGCaptureTextField alloc]initWithTitle:@"My Title" andMessage:@"Enter your name here :"];
+//    NSDictionary *appearenceDict = [[NSDictionary alloc]initWithObjectsAndKeys:[NSNumber numberWithFloat:2.3],popupBackgroundColor, nil];
+//    [tg setAppearance:appearenceDict];
     [tg setDelegate:self];
     [tg showInViewController:self];
     

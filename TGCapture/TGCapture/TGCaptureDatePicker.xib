@@ -10,6 +10,7 @@
                 <outlet property="doneButton" destination="EbQ-il-uWJ" id="Z8E-Tl-MZC"/>
                 <outlet property="messageLabel" destination="Rx3-aJ-czq" id="QmL-DY-jcM"/>
                 <outlet property="overlayView" destination="Uwf-kD-Ce9" id="7cB-DZ-KXo"/>
+                <outlet property="separatorView" destination="vgc-jZ-hEm" id="1Gm-2h-ENi"/>
                 <outlet property="titleLabel" destination="ZNA-Ws-hOP" id="jxL-8p-OKg"/>
                 <outlet property="view" destination="t6k-yi-ATx" id="sKE-f7-0WL"/>
             </connections>

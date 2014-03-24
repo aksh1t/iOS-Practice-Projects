@@ -42,13 +42,24 @@
         overlayView.autoresizingMask = UIViewAutoresizingFlexibleBottomMargin|UIViewAutoresizingFlexibleTopMargin|UIViewAutoresizingFlexibleLeftMargin|UIViewAutoresizingFlexibleRightMargin|UIViewAutoresizingFlexibleHeight|UIViewAutoresizingFlexibleWidth;
         self.view.autoresizingMask = UIViewAutoresizingFlexibleBottomMargin|UIViewAutoresizingFlexibleTopMargin|UIViewAutoresizingFlexibleLeftMargin|UIViewAutoresizingFlexibleRightMargin;
     }
-    
     return self;
 }
 
 - (void)tapped{
     canceled = YES;
     [self removePopupFromViewReturningData:nil];
+}
+
+- (void)setAppearance:(NSDictionary *)appearance{
+    if([appearance valueForKey:popupBackgroundColor]!=nil && [[appearance valueForKey:popupBackgroundColor] isKindOfClass:[UIColor class]]){
+        [self.view setBackgroundColor:(UIColor *)[appearance valueForKey:popupBackgroundColor]];
+    }
+    if([appearance valueForKey:popupCornerRadius]!=nil&&[[appearance valueForKey:popupCornerRadius] isKindOfClass:[NSNumber class]]){
+        [self.view.layer setCornerRadius:[[appearance valueForKey:popupCornerRadius] floatValue]];
+    }
+    if([appearance valueForKey:separatorColor]!=nil&&[[appearance valueForKey:separatorColor] isKindOfClass:[UIColor class]]){
+        [separatorView setBackgroundColor:(UIColor *)[appearance valueForKey:separatorColor]];
+    }
 }
 
 - (void)showInViewController:(UIViewController *)vc{
@@ -111,6 +122,9 @@
     UIInterfaceOrientation orientation= [[UIApplication sharedApplication] statusBarOrientation];
     if (orientation == UIInterfaceOrientationLandscapeRight || orientation == UIInterfaceOrientationLandscapeLeft){
         delta.height += (delta.height<0)? 175:-175;
+        if(!UI_USER_INTERFACE_IDIOM() == UIUserInterfaceIdiomPad){
+            delta.height += (delta.height<0)? 120:-120;
+        }
     }else{
         delta.height += (delta.height<0)? 125:-125;
     }
