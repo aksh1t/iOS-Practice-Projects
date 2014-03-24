@@ -39,6 +39,8 @@
         UITapGestureRecognizer *singleTap = [[UITapGestureRecognizer alloc] initWithTarget:self action:@selector(tapped)];
         [singleTap setNumberOfTouchesRequired : 1];
         [overlayView addGestureRecognizer:singleTap];
+        overlayView.autoresizingMask = UIViewAutoresizingFlexibleBottomMargin|UIViewAutoresizingFlexibleTopMargin|UIViewAutoresizingFlexibleLeftMargin|UIViewAutoresizingFlexibleRightMargin|UIViewAutoresizingFlexibleHeight|UIViewAutoresizingFlexibleWidth;
+        self.view.autoresizingMask = UIViewAutoresizingFlexibleBottomMargin|UIViewAutoresizingFlexibleTopMargin|UIViewAutoresizingFlexibleLeftMargin|UIViewAutoresizingFlexibleRightMargin;
     }
     
     return self;
@@ -50,12 +52,19 @@
 }
 
 - (void)showInViewController:(UIViewController *)vc{
-    [overlayView setFrame:vc.view.frame];
-    [self.view setCenter:vc.view.center];
+    UIInterfaceOrientation orientation= [[UIApplication sharedApplication] statusBarOrientation];
+    if (orientation == UIInterfaceOrientationLandscapeRight || orientation == UIInterfaceOrientationLandscapeLeft){
+        [overlayView setFrame:CGRectMake(0, 0, vc.view.frame.size.height, vc.view.frame.size.width)];
+        [self.view setCenter:CGPointMake(vc.view.center.y, vc.view.center.x)];
+    }else{
+        [overlayView setFrame:CGRectMake(0, 0, vc.view.frame.size.width, vc.view.frame.size.height)];
+        [self.view setCenter:vc.view.center];
+    }
+    
     [vc addChildViewController:self];
     [vc.view addSubview:overlayView];
     [vc.view addSubview:self.view];
-    
+
     overlayView.alpha = 0;
     self.view.alpha = 0;
     
@@ -99,7 +108,13 @@
 }
 
 - (void)keyboardSizeChanged:(CGSize)delta{
-    delta.height += (delta.height<0)? 125:-125;
+    UIInterfaceOrientation orientation= [[UIApplication sharedApplication] statusBarOrientation];
+    if (orientation == UIInterfaceOrientationLandscapeRight || orientation == UIInterfaceOrientationLandscapeLeft){
+        delta.height += (delta.height<0)? 175:-175;
+    }else{
+        delta.height += (delta.height<0)? 125:-125;
+    }
+    
     CGRect frame = self.view.frame;
     frame.origin.y -= delta.height;
     self.view.frame = frame;
