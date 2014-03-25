@@ -112,9 +112,9 @@
                      }];
     
     if(canceled){
-        [delegate tgCaptureReturnedData:nil];
+        [delegate tgCapture:self returnedData:nil];
     }else{
-        [delegate tgCaptureReturnedData:data];
+        [delegate tgCapture:self returnedData:data];
     }
 }
 

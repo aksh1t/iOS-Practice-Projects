@@ -11,6 +11,7 @@
 #import "TGCaptureTextView.h"
 #import "TGCaptureDatePicker.h"
 #import "TGCaptureTableView.h"
+#import "TGCaptureTableItem.h"
 #import "TGCapturePhotoPicker.h"
 #import "TGCaptureVideoPicker.h"
 

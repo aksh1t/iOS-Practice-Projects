@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		AC371DB918E1B92E00648DE5 /* TGCaptureTableItem.m in Sources */ = {isa = PBXBuildFile; fileRef = AC371DB818E1B92E00648DE5 /* TGCaptureTableItem.m */; };
 		ACE3AE4118DAF1C300352066 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = ACE3AE4018DAF1C300352066 /* Foundation.framework */; };
 		ACE3AE4318DAF1C300352066 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = ACE3AE4218DAF1C300352066 /* CoreGraphics.framework */; };
 		ACE3AE4518DAF1C300352066 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = ACE3AE4418DAF1C300352066 /* UIKit.framework */; };
@@ -51,6 +52,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		AC371DB718E1B92E00648DE5 /* TGCaptureTableItem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TGCaptureTableItem.h; sourceTree = "<group>"; };
+		AC371DB818E1B92E00648DE5 /* TGCaptureTableItem.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TGCaptureTableItem.m; sourceTree = "<group>"; };
 		ACE3AE3D18DAF1C200352066 /* TGCapture.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TGCapture.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		ACE3AE4018DAF1C300352066 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		ACE3AE4218DAF1C300352066 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -213,6 +216,8 @@
 				ACE4F62518DB049900DD642B /* TGCaptureDatePicker.xib */,
 				ACE4F62918DB049900DD642B /* TGCaptureTableView.h */,
 				ACE4F62A18DB049900DD642B /* TGCaptureTableView.m */,
+				AC371DB718E1B92E00648DE5 /* TGCaptureTableItem.h */,
+				AC371DB818E1B92E00648DE5 /* TGCaptureTableItem.m */,
 				ACE4F62B18DB049900DD642B /* TGCaptureTableView.xib */,
 				ACE4F64518DB120200DD642B /* CustomCell.xib */,
 				ACE4F64318DB120200DD642B /* checkmark.png */,
@@ -351,6 +356,7 @@
 				ACE4F64118DB11F200DD642B /* HomeViewController.m in Sources */,
 				ACE3AE7918DAF52000352066 /* TGCaptureTextField.m in Sources */,
 				ACE3AE4D18DAF1C300352066 /* main.m in Sources */,
+				AC371DB918E1B92E00648DE5 /* TGCaptureTableItem.m in Sources */,
 				ACE4F63218DB049900DD642B /* TGCaptureDatePicker.m in Sources */,
 				ACE4F63818DB049900DD642B /* TGCaptureTextView.m in Sources */,
 			);

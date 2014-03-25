@@ -52,9 +52,21 @@
 
 - (IBAction)button4Clicked:(id)sender{
     
-    NSArray *arr = [[NSArray alloc]initWithObjects:@"A",@"B",@"C",@"D",@"E", nil];
+    TGCaptureTableItem *item1 = [[TGCaptureTableItem alloc]init];
+    [item1 setTitle:@"A"];
+    [item1 setIsSelected:NO];
     
-    TGCaptureTableView *tg = [[TGCaptureTableView alloc]initWithTitle:@"My Title" andMessage:@"Select your cells:" andData:arr withMode:tgCaptureTableViewModeSingleSelection];
+    TGCaptureTableItem *item2 = [[TGCaptureTableItem alloc]init];
+    [item2 setTitle:@"B"];
+    [item2 setIsSelected:YES];
+    
+    TGCaptureTableItem *item3 = [[TGCaptureTableItem alloc]init];
+    [item3 setTitle:@"C"];
+    [item3 setIsSelected:YES];
+    
+    NSArray *arr = [NSArray arrayWithObjects:item1, item2, item3, nil];
+    
+    TGCaptureTableView *tg = [[TGCaptureTableView alloc]initWithTitle:@"My Title" andMessage:@"Select your cells:" andData:arr withMode:tgCaptureTableViewModeMultiSelection];
     [tg setDelegate:self];
     [tg showInViewController:self];
     
@@ -76,7 +88,7 @@
     
 }
 
--(void)tgCaptureReturnedData:(id)data{
+-(void)tgCapture:(id)sender returnedData:(id)data{
     NSLog(@"%@",data);
 }
 

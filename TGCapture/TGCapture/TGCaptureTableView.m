@@ -10,8 +10,20 @@
         [tableView.layer setBorderWidth:0.5];
 
         data = array;
-        selectedData = [[NSMutableArray alloc]init];
-        for(id obj in data) [selectedData addObject:[NSNumber numberWithBool:FALSE]];
+        
+        int lastindex = 0;
+        BOOL noselected = TRUE;
+        if(mode == tgCaptureTableViewModeSingleSelection){
+            for(int i=0;i<[data count];i++) {
+                if([(TGCaptureTableItem *)[data objectAtIndex:i] isSelected]){
+                    lastindex = i;
+                    noselected = FALSE;
+                    [(TGCaptureTableItem *)[data objectAtIndex:i] setIsSelected:FALSE];
+                }
+            }
+            if(!noselected)
+                [(TGCaptureTableItem *)[data objectAtIndex:lastindex] setIsSelected:TRUE];
+        }
         currentMode = mode;
     }
     return self;
@@ -31,7 +43,15 @@
 }
 
 - (IBAction)doneButtonClicked:(id)sender{
-    [self removePopupFromViewReturningData:selectedData];
+    
+    NSMutableArray *returnData = [[NSMutableArray alloc]init];
+    for(id item in data){
+        if([(TGCaptureTableItem *)item isSelected]){
+            [returnData addObject:item];
+        }
+    }
+
+    [self removePopupFromViewReturningData:returnData];
 }
 
 -(NSInteger)tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section{
@@ -41,15 +61,14 @@
 -(void)tableView:(UITableView *)tv didSelectRowAtIndexPath:(NSIndexPath *)indexPath{
     switch (currentMode) {
         case tgCaptureTableViewModeSingleSelection:
-            [selectedData removeAllObjects];
-            for(id obj in data) [selectedData addObject:[NSNumber numberWithBool:FALSE]];
-            [selectedData replaceObjectAtIndex:indexPath.row withObject:[NSNumber numberWithBool:TRUE]];
+            for(id item in data) [(TGCaptureTableItem *)item setIsSelected:FALSE];
+            [(TGCaptureTableItem *)[data objectAtIndex:indexPath.row]setIsSelected:TRUE];
             break;
         case tgCaptureTableViewModeMultiSelection:
-            if([[selectedData objectAtIndex:indexPath.row]boolValue])
-                [selectedData replaceObjectAtIndex:indexPath.row withObject:[NSNumber numberWithBool:FALSE]];
+            if([(TGCaptureTableItem *)[data objectAtIndex:indexPath.row] isSelected])
+                [(TGCaptureTableItem *)[data objectAtIndex:indexPath.row] setIsSelected:FALSE];
             else
-                [selectedData replaceObjectAtIndex:indexPath.row withObject:[NSNumber numberWithBool:TRUE]];
+                [(TGCaptureTableItem *)[data objectAtIndex:indexPath.row] setIsSelected:TRUE];
             break;
         default:
             break;
@@ -65,10 +84,10 @@
     }
 
     UILabel *cellLabel = (UILabel *)[cell viewWithTag:1];
-    [cellLabel setText:[data objectAtIndex:indexPath.row]];
+    [cellLabel setText:[(TGCaptureTableItem *)[data objectAtIndex:indexPath.row] title]];
     
     UIImageView *checkmark = (UIImageView *)[cell viewWithTag:2];
-    [checkmark setHidden:![[selectedData objectAtIndex:indexPath.row]boolValue]];
+    [checkmark setHidden:![(TGCaptureTableItem *)[data objectAtIndex:indexPath.row] isSelected]];
     
     return cell;
 }

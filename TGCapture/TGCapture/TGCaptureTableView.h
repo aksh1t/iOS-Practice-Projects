@@ -1,5 +1,6 @@
 #import <UIKit/UIKit.h>
 #import "TGCapture.h"
+#import "TGCaptureTableItem.h"
 
 enum{
     tgCaptureTableViewModeSingleSelection = 1,

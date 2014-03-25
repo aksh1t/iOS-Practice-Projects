@@ -8,7 +8,7 @@
 
 @protocol TGCaptureDelegate <NSObject>
 @required
-- (void)tgCaptureReturnedData: (id)data;
+- (void)tgCapture:(id)sender returnedData: (id)data;
 @end
 
 @interface TGCapture : UIViewController <KBKeyboardHandlerDelegate>{
