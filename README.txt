@@ -4,8 +4,6 @@ This Repository contains projects which I made while learning iOS (with the exce
 
 	•	Calculator - A simple working calculator.
 
-	•	CocoaPodsExample - Tutorial project for integrating various pods into the project.
-
 	•	Components - A project which I made to check out various iOS components.
 
 	•	CustomTableApp - This project is somewhat like the Contacts App. Stores information using NSUserDefaults.
@@ -18,8 +16,6 @@ This Repository contains projects which I made while learning iOS (with the exce
 
 	•	MultiView - An application which has two views switching to and from one another with different animations.
 
-	•	SMSTest - POC for sending SMS in iDevices. Can’t send SMS without the default MessageController popping up, so not much use for sending SMS through code.
-
 	•	StoryboardTutorial - Experimentation with Storyboards and segue transitions and animations.
 
 	•	TestTableAnimation - Playing around with UITable cells moving around animations.
@@ -27,7 +23,3 @@ This Repository contains projects which I made while learning iOS (with the exce
 	•	ThreadingTestApp - This app is a downloaded demo for Multithreading.
 
 	•	UITableViewDemo - An example for using UISearchBar with a UITableView just like the contacts app.
-
-	•	PageControlExample - An example demonstrating UIScrollView with paging vertically.
-
-	•	TGCapture - Library for various popup input views. 
