@@ -23,3 +23,8 @@ This Repository contains projects which I made while learning iOS (with the exce
 	•	ThreadingTestApp - This app is a downloaded demo for Multithreading.
 
 	•	UITableViewDemo - An example for using UISearchBar with a UITableView just like the contacts app.
+
+	•	Timer - An demo application using multiple timers concurrently in a table.
+
+	•	MaskDemo - Example for masking UIView
+
