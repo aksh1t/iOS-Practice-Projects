@@ -27,4 +27,3 @@ This Repository contains projects which I made while learning iOS (with the exce
 	•	Timer - An demo application using multiple timers concurrently in a table.
 
 	•	MaskDemo - Example for masking UIView
-
