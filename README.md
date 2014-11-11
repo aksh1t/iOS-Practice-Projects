@@ -1,7 +1,7 @@
 iOS-Practice-Projects
 =====
 
-These are some projects which I made or while learning iOS. These projects mostly contain basic stuff, which has been summarised below. Note that some of the projects might not display correctly with iOS 7 and above because they have been made with iOS 5 and Xcode 4.6.
+These are some projects which I made while learning iOS. These projects mostly contain basic stuff, which has been summarised below. Note that some of the projects might not display correctly with iOS 7 and above because they have been made with iOS 5 and Xcode 4.6.
 
 * __Calculator__ - A simple working calculator.
 
